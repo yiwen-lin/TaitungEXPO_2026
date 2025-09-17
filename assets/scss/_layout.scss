@@ -1,0 +1,418 @@
+$path: '../images';
+
+body {
+	background-color: $white;
+
+    &.openNav,
+	&.openPopup {
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+    }
+}
+
+.container {
+	padding: 0 rem(30);
+
+	@include rwd-min(769px) {
+		padding: 0 rem(50);
+	}
+}
+
+@include rwd-max(768px) {
+	.display--pc {
+		display: none;
+	}
+
+	.display--mb {
+		display: block;
+	}
+}
+
+@include rwd-min(769px) {
+	.display--pc {
+		display: block;
+	}
+
+	.display--mb {
+		display: none;
+	}
+}
+
+/*--------- header -----------*/
+
+@keyframes stickyAni {
+    0% {
+        transform: translate3d(0,-40px,0) scaleY(.8);
+        opacity: .7
+    }
+
+    to {
+        transform: translateZ(0) scaleY(1);
+        opacity: 1
+    }
+}
+
+.menuSwitcher {
+	cursor: pointer;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	border-radius: 50%;
+	border-width: rem(2);
+	border-style: solid;
+	width: rem(50);
+	height: rem(50);
+	padding: rem(16);
+
+	span {
+		display: block;
+		width: rem(18);
+		height: rem(2);
+	}
+
+	&.is-closed {
+		border-color: $dark;
+
+		span {
+			margin-bottom: rem(4);
+			background-color: $dark;
+
+			&:last-child {
+				margin-bottom: 0;
+			}
+		}
+	}
+
+	&.is-opened {
+		border-color: $white;
+
+		span {
+			background-color: $white;
+
+			&:nth-child(1) {
+				transform: translateY(6px) rotate(45deg);
+			}
+
+			&:nth-child(2) {
+				transform: translateY(-1px) rotate(-45deg);
+			}
+		}
+	}
+}
+
+.l-header {
+	position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+	z-index: 100;
+	background-color: $white;
+
+	.sticky-wrapper {
+		padding: 13px 0;
+		background-color: $white;
+		@include transition(all, .4s, ease-in-out);
+
+		&.header-sticky {
+			position: fixed;
+			top: 0;
+			right: 0;
+			left: 0;
+			box-shadow: 0 0 10px 0 rgba(0, 0, 0, .07);
+			animation: stickyAni .6s ease-in-out;
+		}
+	}
+
+	.container-fluid {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+
+	.container-fluid {
+		background-color: transparent;
+		display: flex;
+		flex-direction: row-reverse;
+		justify-content: space-between;
+		width: 100%;
+		padding: 0 rem(16);
+
+        @include rwd-min(769px) {
+			padding: 0 rem(40);
+			flex-direction: row;
+        }
+	}
+
+	&__toggler {
+		.menuSwitcher {
+			@include transition(all, .3s, ease-in);
+
+			&:hover {
+				@include scale(1.05);
+			}
+
+			@include rwd-not-hover {
+				&:hover {
+					@include scale(1);
+				}
+			}
+		}
+	}
+
+	&__logo {
+		.logoItem {
+			width: rem(130);
+
+			img {
+				width: 100%;
+			}
+
+			@include rwd-min(769px) {
+				width: rem(180);
+			}
+		}
+	}
+
+	&__lang {
+		.lang-btn {
+			cursor: pointer;
+			border: rem(2) solid #717071;
+			color: #717071;
+			font-size: rem(14);
+			text-align: center;
+			background-color: transparent;
+			border-radius: rem(30);
+			width: rem(50);
+			height: rem(30);
+			@include transition(all, .3s, ease-in);
+
+			@include rwd-min(769px) {
+				font-size: rem(16);
+				width: rem(84);
+				height: rem(36);
+			}
+
+			&:hover {
+				@include scale(1.05);
+			}
+
+			@include rwd-not-hover {
+				&:hover {
+					@include scale(1);
+				}
+			}
+		}
+	}
+}
+
+.l-nav {
+	visibility: hidden;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	@include transition(all, .3s, ease-in-out);
+
+	.overlay {
+		cursor: pointer;
+		background-color: rgba(10, 12, 0, .6);
+		width: 100%;
+		height: 100%;
+		opacity: 0;
+		@include transition(all, .3s, ease-in-out);
+	}
+
+	.navWrap {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-end;
+		justify-content: flex-start;
+		position: absolute;
+		padding: rem(20);
+		background-color: #0A0C00;
+		top: 0;
+		left: -100%;
+		width: 77%;
+		height: 100%;
+		@include transition(all, .3s, ease-in-out);
+
+		@include rwd-min(769px) {
+			width: 310px;
+			padding: rem(20) rem(20) rem(20) rem(34);
+		}
+
+		.navToggler {
+			width: 100%;
+			display: flex;
+			justify-items: flex-end;
+			flex-direction: row-reverse;
+
+			.menuSwitcher {
+				@include transition(all, .3s, ease-in);
+
+				&:hover {
+					@include scale(1.05);
+				}
+
+				@include rwd-not-hover {
+					&:hover {
+						@include scale(1);
+					}
+				}
+			}
+		}
+	}
+
+	.navbar {
+		align-self: flex-start;
+		margin-top: rem(20);
+	}
+
+	&.is-open {
+		visibility: visible;
+
+		.overlay {
+			opacity: 1;
+		}
+
+		.navWrap {
+			left: 0;
+		}
+	}
+}
+
+.navbar {
+	@include list-reset;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	align-items: flex-start;
+
+	.navbarItem {
+		padding: rem(20) 0;
+
+        &:last-child {
+            margin-bottom: 0;
+        }
+
+		.navbarText {
+			display: block;
+            font-size: rem(16);
+			width: 100%;
+			overflow: hidden;
+
+			span {
+				color: #ffffff;
+				display: block;
+				position: relative;
+				top: 0;
+				transition: .3s;
+				font-weight: 500;
+			}
+
+			&:hover {
+				span {
+					top: -100%;
+				}
+			}
+
+			@include rwd-not-hover {
+				&:hover {
+					span {
+						top: 0;
+					}
+				}
+			}
+		}
+	}
+
+	@include rwd-max(769px) {
+        width: 100%;
+		flex-direction: column;
+        justify-content: flex-start;
+
+		.navbarItem {
+            width: 100%;
+            margin-bottom: rem(16);
+            margin-right: 0;
+
+            a {
+                font-size: rem(18);
+                color: $white;
+            }
+		}
+	}
+
+}
+
+.gotop {
+    position: fixed;
+    display: block;
+    width: 50px;
+    height: 50px;
+    text-indent: -9999px;
+    background-size: 50px;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 1000;
+}
+
+//footer
+.l-footer {
+	position: relative;
+	background: #001D4D;
+	padding: rem(80) 0 rem(30);
+	color: $white;
+	font-size: rem(14);
+	font-weight: 300;
+	text-align: center;
+
+	.logo {
+		a {
+			margin-right: rem(30);
+
+			&:last-child {
+				margin-right: 0;
+			}
+		}
+	}
+
+	.department {
+		@include f-noto;
+		font-size: rem(16);
+		line-height: 1.5;
+		font-weight: 500;
+		margin-top: rem(30);
+		margin-bottom: rem(12);
+	}
+
+	.info {
+		@include list-reset;
+		margin-bottom: rem(20);
+
+		a {
+			color: $white;
+		}
+	}
+
+	.sectors {
+		@include list-reset;
+		margin-bottom: rem(30);
+
+		a {
+			color: $white;
+		}
+	}
+
+	.copyright {
+		@include f-noto;
+		font-size: rem(14);
+		line-height: 1.5;
+		font-weight: 300;
+		margin-top: rem(30);
+	}
+}
