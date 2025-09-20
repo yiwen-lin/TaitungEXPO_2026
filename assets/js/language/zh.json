@@ -137,12 +137,28 @@
                 "url": "https://www.facebook.com/NanhuiArtProject/?locale=zh_TW"
             },
             {
+                "imgSrc": "assets/images/event/img_event-23.jpg",
+                "imgAlt": "2025教育創新國際年會",
+                "date": "2025.09.24",
+                "title": "2025教育創新國際年會",
+                "location": "台北文創6樓",
+                "url": "https://site.parenting.com.tw/topic/1831?test=30eQWspsaxZHk436wfIXyMUFtiHdokeUnpEJ4wTbxjpBRZRj0YJmu5XxGRGFdvbEL1IrEvjDNU%2BjfA5oY6ZIWLDtTa%2FbLGf8q%2FoTL2WS3SW8AdT%2BqNSxgrEWkiXHa9n1&test_code=36e0b1f6dc9cb92707f7f9604c258e7ccc8c06ee1066773252c00e7fd83ea1e3&test_expired=1758348367"
+            },
+            {
                 "imgSrc": "assets/images/event/img_event-21.jpg",
                 "imgAlt": "【臺東慢食節】採集餐桌：山林野地篇",
                 "date": "2025.10.04 - 10.05",
                 "title": "【臺東慢食節】採集餐桌：山林野地篇",
                 "location": "知本森林遊樂區",
                 "url": "https://slowfoodtaitung.tw/"
+            },
+            {
+                "imgSrc": "assets/images/event/img_event-24.png",
+                "imgAlt": "臺東藝穗節",
+                "date": "2025.10.16 - 11.23",
+                "title": "臺東藝穗節",
+                "location": "台東縣（詳見官網）",
+                "url": "https://www.facebook.com/TaitungFringeFestival/?locale=zh_TW"
             },
             {
                 "imgSrc": "assets/images/event/img_event-14.png",
@@ -307,7 +323,9 @@
             "南迴場｜114年9月23日(二)  10:00-12:00"
         ],
         "actionItems": [
-            "報名說明會"
+            "報名說明會",
+            "活動簡章",
+            "說明會簡報"
         ]
     },
     "authorization": {

@@ -137,12 +137,28 @@
                 "url": "https://www.facebook.com/NanhuiArtProject/?locale=zh_TW"
             },
             {
+                "imgSrc": "assets/images/event/img_event-23.jpg",
+                "imgAlt": "2025 International Conference on Education Innovation",
+                "date": "2025.09.24",
+                "title": "2025 International Conference on Education Innovation",
+                "location": "Taipei New Horizon 6F",
+                "url": "https://site.parenting.com.tw/topic/1831?test=30eQWspsaxZHk436wfIXyMUFtiHdokeUnpEJ4wTbxjpBRZRj0YJmu5XxGRGFdvbEL1IrEvjDNU%2BjfA5oY6ZIWLDtTa%2FbLGf8q%2FoTL2WS3SW8AdT%2BqNSxgrEWkiXHa9n1&test_code=36e0b1f6dc9cb92707f7f9604c258e7ccc8c06ee1066773252c00e7fd83ea1e3&test_expired=1758348367"
+            },
+            {
                 "imgSrc": "assets/images/event/img_event-21.jpg",
                 "imgAlt": "[Slow Food Taitung] Forage to Table: Feast in the Forest",
                 "date": "2025.10.04 - 10.05",
                 "title": "[Slow Food Taitung] Forage to Table: Feast in the Forest",
                 "location": "Zhiben Forest Recreation Area",
                 "url": "https://slowfoodtaitung.tw/"
+            },
+            {
+                "imgSrc": "assets/images/event/img_event-24.png",
+                "imgAlt": "Taitung Fringe Festival",
+                "date": "2025.10.16 - 11.23",
+                "title": "Taitung Fringe Festival",
+                "location": "Taitung County (See website for details)",
+                "url": "https://www.facebook.com/TaitungFringeFestival/?locale=zh_TW"
             },
             {
                 "imgSrc": "assets/images/event/img_event-14.png",
@@ -307,7 +323,9 @@
             "Session 4｜September 23, 2025 (Tue) 10:00–12:00"
         ],
         "actionItems": [
-            "Register for Briefing Session"
+            "Register for Briefing Session",
+            "Download Prospectus",
+            "Download Briefing Presentation"
         ]
     },
     "authorization": {
