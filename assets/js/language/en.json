@@ -36,12 +36,28 @@
         "title": "Latest News",
         "newsData": [
             {
-                "imgSrc": "assets/images/news/N8.png",
-                "imgAlt": "2026 Taitung Expo Community Participation Plan—Now Open for Applications",
-                "date": "2025.9.8",
-                "title": "2026 Taitung Expo Community Participation Plan—Now Open for Applications",
-                "desc": "The Taitung County Government is launching the 2026 Taitung Expo Community Participation Plan, inviting community organizations and companies to collectively imagine and create a future vision for Taitung at the Expo.",
-                "url": "https://forms.gle/RYvbtog8piPY7KT16"
+                "imgSrc": "assets/images/news/N11.jpg",
+                "imgAlt": "Taitung County’s “Facing the Mountains and the Sea” Educational Initiative Debuts on the International Stage — Magistrate April Yao and School Principals Share the Future of Learning in the AI Era",
+                "date": "2025.9.24",
+                "title": "Taitung County’s “Facing the Mountains and the Sea” Educational Initiative Debuts on the International Stage — Magistrate April Yao and School Principals Share the Future of Learning in the AI Era",
+                "desc": "On the 24th, the Taitung County Government was invited to participate in the 2025 Education Innovation International Conference, organized by CommonWealth Parenting. At a special education forum held on the 6th floor of Songshan Cultural and Creative Park in Taipei, Taitung showcased the concrete achievements of its “Facing the Mountains and the Sea” education initiative to the national education community.",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=142165"
+            },
+            {
+                "imgSrc": "assets/images/news/N10.jpg",
+                "imgAlt": "2026 Taitung Expo Community Participation Plan Open Call",
+                "date": "2025.9.18",
+                "title": "2026 Taitung Expo Community Participation Plan Open Call",
+                "desc": "The call for “2026 Taitung Expo Community Participation Plan” runs from now until October 31st. At least 12 projects will be selected with a total prize money of NT$12 million. You are welcome to submit your proposals, and join us together in opening an expo that belongs to everyone in Taitung.",
+                "url": "https://reurl.cc/EQvkLR"
+            },
+            {
+                "imgSrc": "assets/images/news/N9.jpg",
+                "imgAlt": "2026 Taitung Expo” Countdown Begins! Brand Identity Unveiled with a Hot Air Balloon Symbol conveying the ‘’Slow for Life'' Vision",
+                "date": "2025.9.13",
+                "title": "2026 Taitung Expo” Countdown Begins! Brand Identity Unveiled with a Hot Air Balloon Symbol conveying the ‘’Slow for Life'' Vision",
+                "desc": "The “2026 Taitung Expo” will be grandly launched next year. On September 13th, at the Hi on Taitung concert, the Taitung County Government unveiled the Expo’s brand identity for the first time, officially marking the start of the countdown to the event.",
+                "url": "https://youtu.be/7rCqL7C_xME?si=JJqh2SwYG9-aOZh0"
             },
             {
                 "imgSrc": "assets/images/news/N7.png",
@@ -113,14 +129,6 @@
                 "url": "https://www.facebook.com/TaitungSpiritFestival/"
             },
             {
-                "imgSrc": "assets/images/event/img_event-9.png",
-                "imgAlt": "[TECLandArts Festival] East Coast Art & Living Network",
-                "date": "2025.07.01 - 09.30",
-                "title": "[TECLandArts Festival] East Coast Art & Living Network",
-                "location": "Multiple locations along the East Coast (See website for details)",
-                "url": "https://www.facebook.com/TECLandArtsFestival"
-            },
-            {
                 "imgSrc": "assets/images/event/img_event-10.JPG",
                 "imgAlt": "East Rift Valley Land Art Festival",
                 "date": "2025.07.01 -",
@@ -135,22 +143,6 @@
                 "title": "South Link Arts Festival",
                 "location": "South Link Highway (See website for details)",
                 "url": "https://www.facebook.com/NanhuiArtProject/?locale=zh_TW"
-            },
-            {
-                "imgSrc": "assets/images/event/img_event-23.jpg",
-                "imgAlt": "2025 International Conference on Education Innovation",
-                "date": "2025.09.24",
-                "title": "2025 International Conference on Education Innovation",
-                "location": "Taipei New Horizon 6F",
-                "url": "https://reurl.cc/ekbRaK"
-            },
-            {
-                "imgSrc": "assets/images/event/img_event-21.jpg",
-                "imgAlt": "[Slow Food Taitung] Forage to Table: Feast in the Forest",
-                "date": "2025.10.04 - 10.05",
-                "title": "[Slow Food Taitung] Forage to Table: Feast in the Forest",
-                "location": "Zhiben Forest Recreation Area",
-                "url": "https://slowfoodtaitung.tw/"
             },
             {
                 "imgSrc": "assets/images/event/img_event-24.png",
@@ -315,30 +307,26 @@
     "participation": {
         "title": "Community Participation Plan",
         "intro": "The Taitung County Government is launching the \"2026 Taitung Expo Community Participation Plan,\" inviting community and private organizations to co-create a future vision for Taitung through their imagination and interpretations at the Expo.<br>This initiative will follow the Expo's overall implementation framework and echo the United Nations' 17 Sustainable Development Goals (SDGs), seeking forward-thinking and diverse curatorial concepts, through a public call for proposals. At least 12 projects will be selected. Harnessing the curatorial energy of the local community, the program aims to collectively shape a sustainable and vibrant future for Taitung — and to share its creative spirit with the world.",
-        "infoTitle": "Proposals Briefing Session",
+        "infoTitle": "Application Information",
         "infoItems": [
-            "Session 1｜September 17, 2025 (Wed) 10:00–12:30",
-            "Session 2｜September 18, 2025 (Thu) 10:00–12:00",
-            "Session 3｜September 22, 2025 (Mon) 14:00–16:00",
-            "Session 4｜September 23, 2025 (Tue) 10:00–12:00"
+            "Application period: From now until October 31, 2025 (Friday)",
+            "Mailing address for electronic files: <a href=\"mailto:slifetaitung@gmail.com\" class=\"f-underline\">slifetaitung@gmail.com</a>"
         ],
         "actionItems": [
-            "Register for Briefing Session",
-            "Download Prospectus",
+            "Download Program Overview",
             "Download Briefing Presentation"
         ]
     },
     "authorization": {
         "title": "Brand Authorization",
         "introTexts": [
-            "To promote the application and value extension of \"2026 Taitung Expo\" brand identity, Taitung County Government has established the \"Brand Trademark Licensing Procedures,\" to create a licensing cooperation mechanism, whereby brands, manufacturers, channels, and enterprises are invited to participate. Through the authorized use of expo logos, standard characters and fonts, auxiliary graphics, and designated colors—the core identity elements—we aim to expand the Expo's social influence, promote industry co-creation and local brand development, and demonstrate Taitung's cultural energy and innovative spirit.",
+            "To promote the application and value extension of \"2026 Taitung Expo\" brand identity, Taitung County Government has established the \"Brand Trademark Licensing Procedures,\" to create a licensing cooperation mechanism, whereby brands, manufacturers, sales channels, and enterprises are invited to participate. Through the authorized use of expo logos, standard characters and fonts, auxiliary graphics, and designated colors—the core identity elements—we aim to expand the Expo's social influence, promote industry co-creation and local brand development, and demonstrate Taitung's cultural energy and innovative spirit.",
             "The licensing mechanism clearly defines application requirements, usage guidelines, and review procedures to ensure the brand identity system’s accuracy and consistency, enhance recognition, and support sustainable development. For detailed regulations, please refer to the \"2026 Taitung Expo Brand Trademark Licensing Procedures\" and the \"2026 Taitung Expo Brand Manual.\""
         ],
         "applicationTitle": "Application Information",
         "applicationItems": [
-            "Application period: From now until September 30, 2025 (Tuesday)",
-            "<a href=\"https://forms.gle/ddYC65vRZMA3ZrDc8\" target=\"_blank\">Online registration form</a>",
-            "Mailing address for hard copy and electronic data: No. 478, Bo'ai Road, Taitung City, Taitung County 950 / <a href=\"mailto:info@taitungexpo2026.com.tw\">info@taitungexpo2026.com.tw</a>"
+            "The first-phase of the application process closed on September 30. Official authorization notices will be issued shortly; we kindly ask applicants who have completed their submissions to await further notification.For applicants who completed online registration before September 30 but whose materials remain incomplete, the deadline for supplementary submissions of supplementary material has been extended to Monday, October 14 at 12:00. Please make sure to complete the required documents within this timeframe. We sincerely appreciate your cooperation.",
+            "For inquiries, please contact: <a href=\"mailto:info@taitungexpo2026.com.tw\" class=\"f-underline\">info@taitungexpo2026.com.tw</a>  /   LINE: <a href=\"https://lin.ee/xC0cxGi\" class=\"f-underline\" target=\"_blank\">@ttexpo</a>"
         ],
         "actionItems": [
             "Download Licensing Procedures",

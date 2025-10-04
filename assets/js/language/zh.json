@@ -36,12 +36,28 @@
         "title": "最新消息",
         "newsData": [
             {
-                "imgSrc": "assets/images/news/N8.png",
-                "imgAlt": "2026台東博覽會「民間參與計畫」徵件說明會報名中",
-                "date": "2025.9.8",
-                "title": "2026台東博覽會「民間參與計畫」徵件說明會報名中",
-                "desc": "臺東縣政府推出「2026台東博覽會民間參與計畫」，邀請當地民間團體共同創造台東未來願景，透過創意實現對「台東博覽會」的獨特想像。",
-                "url": "https://forms.gle/RYvbtog8piPY7KT16"
+                "imgSrc": "assets/images/news/N11.jpg",
+                "imgAlt": "臺東縣「面山面海」教育亮相國際舞台—饒慶鈴縣長與校長齊聚教育年會 分享AI世代下的學習新未來",
+                "date": "2025.9.24",
+                "title": "臺東縣「面山面海」教育亮相國際舞台—饒慶鈴縣長與校長齊聚教育年會 分享AI世代下的學習新未來",
+                "desc": "臺東縣政府於24日受邀出席由親子天下主辦的「2025教育創新國際年會」，於臺北文創6樓舉辦教育論壇專場，向全國教育界展現臺東縣推動「面山面海」教育的具體成果。",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=142165"
+            },
+            {
+                "imgSrc": "assets/images/news/N10.jpg",
+                "imgAlt": "2026台東博覽會．民間參與計畫 熱情徵件中",
+                "date": "2025.9.18",
+                "title": "2026台東博覽會．民間參與計畫 熱情徵件中",
+                "desc": "2026台東博覽會「民間參與計畫」徵件自即日起至10/31，預計遴選至少12件計畫，總獎金1200萬元，歡迎各方行動者加入提案行列，一同打開屬於大家的博覽會。",
+                "url": "https://reurl.cc/EQvkLR"
+            },
+            {
+                "imgSrc": "assets/images/news/N9.jpg",
+                "imgAlt": "「2026 台東博覽會」倒數啟動！形象識別首度曝光 以台東熱氣球意象傳遞 Slow for Life 願景",
+                "date": "2025.9.13",
+                "title": "「2026 台東博覽會」倒數啟動！形象識別首度曝光 以台東熱氣球意象傳遞 Slow for Life 願景",
+                "desc": "「2026 台東博覽會」將於明年盛大展開，臺東縣政府13日於「嗨！出發吧來台東」演唱會上，首度公開形象識別，為展會正式倒數揭開序幕。",
+                "url": "https://youtu.be/7rCqL7C_xME?si=JJqh2SwYG9-aOZh0"
             },
             {
                 "imgSrc": "assets/images/news/N7.png",
@@ -113,14 +129,6 @@
                 "url": "https://www.facebook.com/TaitungSpiritFestival/"
             },
             {
-                "imgSrc": "assets/images/event/img_event-9.png",
-                "imgAlt": "【東海岸大地藝術節】東海岸藝術生活平台串聯",
-                "date": "2025.07.01 - 09.30",
-                "title": "【東海岸大地藝術節】東海岸藝術生活平台串聯",
-                "location": "東海岸沿線多處場域（詳見官網）",
-                "url": "https://www.facebook.com/TECLandArtsFestival"
-            },
-            {
                 "imgSrc": "assets/images/event/img_event-10.JPG",
                 "imgAlt": "縱谷大地藝術季・漂鳥197",
                 "date": "2025.07.01 -",
@@ -135,22 +143,6 @@
                 "title": "南迴藝術季",
                 "location": "台東縣南迴公路（詳見官網）",
                 "url": "https://www.facebook.com/NanhuiArtProject/?locale=zh_TW"
-            },
-            {
-                "imgSrc": "assets/images/event/img_event-23.jpg",
-                "imgAlt": "2025教育創新國際年會",
-                "date": "2025.09.24",
-                "title": "2025教育創新國際年會",
-                "location": "台北文創6樓",
-                "url": "https://reurl.cc/ekbRaK"
-            },
-            {
-                "imgSrc": "assets/images/event/img_event-21.jpg",
-                "imgAlt": "【臺東慢食節】採集餐桌：山林野地篇",
-                "date": "2025.10.04 - 10.05",
-                "title": "【臺東慢食節】採集餐桌：山林野地篇",
-                "location": "知本森林遊樂區",
-                "url": "https://slowfoodtaitung.tw/"
             },
             {
                 "imgSrc": "assets/images/event/img_event-24.png",
@@ -315,15 +307,12 @@
     "participation": {
         "title": "民間參與計畫",
         "intro": "臺東縣政府推出「2026台東博覽會民間參與計畫」，邀請當地民間團體共同創造台東未來願景，透過創意實現對「台東博覽會」的獨特想像。本計畫將依循博覽會整體執行架構，並呼應聯合國17項永續發展目標（SDGs），公開徵選具前瞻性與多元觀點的策展提案。預計遴選至少12件計畫，透過民間的策展能量，共同勾勒台東多元而永續的未來藍圖，讓世界看見台東的創意與行動力！",
-        "infoTitle": "徵件說明會",
+        "infoTitle": "申請資訊",
         "infoItems": [
-            "市區場｜114年9月17日(三)  10:00-12:30",
-            "縱谷場｜114年9月18日(四)  10:00-12:00",
-            "海岸場｜114年9月22日(一)  14:00-16:00",
-            "南迴場｜114年9月23日(二)  10:00-12:00"
+            "申請時間：即日起至2025年10月31日(五)止",
+            "電子資料寄送地址：<a href=\"mailto:slifetaitung@gmail.com\" class=\"f-underline\">slifetaitung@gmail.com</a> "
         ],
         "actionItems": [
-            "報名說明會",
             "活動簡章",
             "說明會簡報"
         ]
@@ -336,9 +325,8 @@
         ],
         "applicationTitle": "申請資訊",
         "applicationItems": [
-            "申請時間：即日起至114年9月30日（二）止",
-            "<a href=\"https://forms.gle/ddYC65vRZMA3ZrDc8\" class=\"f-underline\" target=\"_blank\">線上報名表單</a>",
-            "紙本及電子資料寄送地址：950臺東縣臺東市博愛路478號 / <a href=\"mailto:info@taitungexpo2026.com.tw\">info@taitungexpo2026.com.tw</a>"
+            "第一階段申請已於 9/30 截止，近期將寄發正式授權公文通知，敬請已完成送件之廠商耐心等候。另針對 9/30 前已完成線上報名但資料尚未齊備之廠商，補件期限延長至 10/14(一) 中午 12:00，敬請把握時間並協助完成相關作業，感謝您的配合。",
+            "相關問題請洽： <a href=\"mailto:info@taitungexpo2026.com.tw\" class=\"f-underline\">info@taitungexpo2026.com.tw</a>  /   LINE: <a href=\"https://lin.ee/xC0cxGi\" class=\"f-underline\" target=\"_blank\">@ttexpo</a>"
         ],
         "actionItems": [
             "作業辦法",
