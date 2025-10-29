@@ -1252,6 +1252,16 @@ h6 {
 }
 @media (min-width: 561px) {
   .section--news .section__content .container {
+    padding: 0 1.875rem;
+  }
+}
+@media (min-width: 993px) {
+  .section--news .section__content .container {
+    padding: 0 3.75rem;
+  }
+}
+@media (min-width: 1200px) {
+  .section--news .section__content .container {
     padding: 0 5.625rem;
   }
 }

@@ -536,6 +536,14 @@ h6 {
 			padding: 0;
 
 			@include rwd-min(561px) {
+				padding: 0 rem(30);
+			}
+
+			@include rwd-min(993px) {
+				padding: 0 rem(60);
+			}
+
+			@include rwd-min(1200px) {
 				padding: 0 rem(90);
 			}
 		}
