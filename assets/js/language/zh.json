@@ -36,6 +36,22 @@
         "title": "最新消息",
         "newsData": [
             {
+                "imgSrc": "assets/images/news/N12.jpg",
+                "imgAlt": "2025臺東工藝國際交流成果展登場！ 6位匠人共譜獻給臺東的情詩",
+                "date": "2025.10.16",
+                "title": "2025臺東工藝國際交流成果展登場！ 6位匠人共譜獻給臺東的情詩",
+                "desc": "臺東縣政府10/24–11/2於台東故事館舉辦「2025臺東工藝與國際交流駐村行銷計畫」成果展，以《藝息山海：獻給臺東工藝的十二首情詩》為題。",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=142650"
+            },
+            {
+                "imgSrc": "assets/images/news/N11-1.jpg",
+                "imgAlt": "臺東縣府跨局處赴日取經 借鏡大阪世博經驗打造2026博覽會",
+                "date": "2025.9.28",
+                "title": "臺東縣府跨局處赴日取經 借鏡大阪世博經驗打造2026博覽會",
+                "desc": "臺東縣政府為籌辦「2026台東博覽會」，27日由縣府文化處李吉崇處長率領組團，跨局處赴日本參訪「2025大阪・關西世博會」籌備情形。",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=142278"
+            },
+            {
                 "imgSrc": "assets/images/news/N11.jpg",
                 "imgAlt": "臺東縣「面山面海」教育亮相國際舞台—饒慶鈴縣長與校長齊聚教育年會 分享AI世代下的學習新未來",
                 "date": "2025.9.24",
@@ -58,6 +74,14 @@
                 "title": "「2026 台東博覽會」倒數啟動！形象識別首度曝光 以台東熱氣球意象傳遞 Slow for Life 願景",
                 "desc": "「2026 台東博覽會」將於明年盛大展開，臺東縣政府13日於「嗨！出發吧來台東」演唱會上，首度公開形象識別，為展會正式倒數揭開序幕。",
                 "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=142427"
+            },
+            {
+                "imgSrc": "assets/images/news/N7-1.jpg",
+                "imgAlt": "四大計畫整合 打造南島文化客廳 七國藝術家從臺東走向世界",
+                "date": "2025.9.2",
+                "title": "四大計畫整合 打造南島文化客廳 七國藝術家從臺東走向世界",
+                "desc": "為深化「南島文化原鄉」政策，臺東縣政府文化處於8月31日在就藝會文化創生基地舉辦《南島客廳－接待儀式》，將國際藝術家齊聚臺東。",
+                 "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=141678"
             },
             {
                 "imgSrc": "assets/images/news/N7.png",
@@ -113,22 +137,6 @@
         "title": "台東博覽會活動表",
         "eventData": [
             {
-                "imgSrc": "assets/images/event/img_event-1.png",
-                "imgAlt": "臺東藝術節",
-                "date": "2025.05.22 - 11.01",
-                "title": "臺東藝術節",
-                "location": "就藝會、台東藝文中心、明門藝文中心",
-                "url": "https://www.facebook.com/Taitungartsfestival/?locale=zh_TW"
-            },
-            {
-                "imgSrc": "assets/images/event/img_event-8.png",
-                "imgAlt": "【自然醒慢活祭】東海岸長濱 liáo 天室",
-                "date": "2025.06.28 - 11.02",
-                "title": "【自然醒慢活祭】東海岸長濱 liáo 天室",
-                "location": "長濱鄉（詳見官網）",
-                "url": "https://www.facebook.com/TaitungSpiritFestival/"
-            },
-            {
                 "imgSrc": "assets/images/event/img_event-10.JPG",
                 "imgAlt": "縱谷大地藝術季・漂鳥197",
                 "date": "2025.07.01 -",
@@ -153,20 +161,21 @@
                 "url": "https://www.facebook.com/TaitungFringeFestival/?locale=zh_TW"
             },
             {
-                "imgSrc": "assets/images/event/img_event-14.png",
-                "imgAlt": "【自然醒慢活祭】療癒工作坊",
-                "date": "2025.10.25",
-                "title": "【自然醒慢活祭】療癒工作坊",
-                "location": "台東南八里民宿",
-                "url": "https://www.facebook.com/TaitungSpiritFestival/"
+                "imgSrc": "assets/images/event/img_event-25.jpg",
+                "imgAlt": "【東Go！】情感拼圖走讀小旅行",
+                "date": "2025.10.18 - 11.15",
+                "title": "【東Go！】情感拼圖走讀小旅行",
+                "location": "大武鄉・成功鎮・台東市",
+                "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0r3vEzFqH8oW832tDE7kASzruZAWaphnb9WYudcMcwBJ9vTufG4aARc7JBGHguDE3l&id=61575811330935&rdid=cCan0QBuTATrgbB1"
             },
+            
             {
-                "imgSrc": "assets/images/event/img_event-15.png",
-                "imgAlt": "池上秋收稻穗藝術節",
-                "date": "2025.10.25 - 10.26",
-                "title": "池上秋收稻穗藝術節",
-                "location": "台東縣池上鄉萬安社區天堂路稻田區（萬新道路）",
-                "url": "https://www.facebook.com/Chishangarts.org"
+                "imgSrc": "assets/images/event/img_event-26.jpg",
+                "imgAlt": "【東Go！】台東人返鄉列車",
+                "date": "2025.10.24 - 11.15",
+                "title": "【東Go！】台東人返鄉列車",
+                "location": "詳見官網",
+                "url": "https://www.facebook.com/p/%E6%9D%B1Go%E5%8F%B0%E6%9D%B1%E4%BA%BA%E6%BC%82%E7%A7%BB%E6%8B%BC%E6%90%8F%E4%B8%BB%E9%A1%8C%E5%B1%95-61575811330935/"
             },
             {
                 "imgSrc": "assets/images/event/img_event-16.jpg",
@@ -177,7 +186,7 @@
                 "url": "https://www.facebook.com/SoundartTaitung/"
             },
             {
-                "imgSrc": "assets/images/event/img_event-17.png",
+                "imgSrc": "assets/images/event/img_event-17.jpg",
                 "imgAlt": "臺灣國際衝浪公開賽",
                 "date": "2025.11.04 - 11.11",
                 "title": "臺灣國際衝浪公開賽",
@@ -191,6 +200,14 @@
                 "title": "【自然醒慢活祭】淨心慢旅行",
                 "location": "鸞山森林文化博物館",
                 "url": "https://www.facebook.com/TaitungSpiritFestival/"
+            },
+            {
+                "imgSrc": "assets/images/event/img_event-27.jpg",
+                "imgAlt": "【東Go！】漂移台東人 音樂故事分享會",
+                "date": "2025.11.22",
+                "title": "【東Go！】漂移台東人 音樂故事分享會",
+                "location": "爵士廣場庭園（詳見官網）",
+                "url": "https://www.facebook.com/p/%E6%9D%B1Go%E5%8F%B0%E6%9D%B1%E4%BA%BA%E6%BC%82%E7%A7%BB%E6%8B%BC%E6%90%8F%E4%B8%BB%E9%A1%8C%E5%B1%95-61575811330935/"
             },
             {
                 "imgSrc": "assets/images/event/img_event-22.png",
@@ -325,7 +342,7 @@
         ],
         "applicationTitle": "申請資訊",
         "applicationItems": [
-            "第一階段申請已於 9/30 截止，近期將寄發正式授權公文通知，敬請已完成送件之廠商耐心等候。另針對 9/30 前已完成線上報名但資料尚未齊備之廠商，補件期限延長至 10/14(二) 中午 12:00，敬請把握時間並協助完成相關作業，感謝您的配合。",
+            "第一階段申請已於 9/30 截止，近期將寄發正式授權公文通知，敬請已完成送件之廠商耐心等候。",
             "相關問題請洽： <a href=\"mailto:info@taitungexpo2026.com.tw\" class=\"f-underline\">info@taitungexpo2026.com.tw</a>  /   LINE: <a href=\"https://lin.ee/xC0cxGi\" class=\"f-underline\" target=\"_blank\">@ttexpo</a>"
         ],
         "actionItems": [
@@ -341,6 +358,7 @@
         "department": "2026台東博覽會-專案管理辦公室",
         "info": [
             "電子郵件：<a href=\"mailto:info@taitungexpo2026.com.tw\">info@taitungexpo2026.com.tw</a>",
+            "聯絡電話：089-341757",
             "官方LINE:<a href=\"https://lin.ee/xC0cxGi\" target=\"_blank\">@ttexpo</a>",
             "服務時間：週一至週五，9:00-18:00"
         ],

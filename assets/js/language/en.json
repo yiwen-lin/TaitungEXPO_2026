@@ -36,6 +36,22 @@
         "title": "Latest News",
         "newsData": [
             {
+                "imgSrc": "assets/images/news/N12.jpg",
+                "imgAlt": "2025 Taitung International Craft Exchange Exhibition Debuts!Six Artisans Present Love Poems Dedicated to Taitung",
+                "date": "2025.10.16",
+                "title": "2025 Taitung International Craft Exchange Exhibition Debuts!Six Artisans Present Love Poems Dedicated to Taitung",
+                "desc": "The Taitung County Government is holding the “2025 Taitung International Craft Exchange and Residency Marketing Project” Exhibition from October 24 to November 2 at the Taitung Story House, under the theme “Craft Harmonizes with Mountains and Sea: Twelve Love Poems Dedicated to Taitung Craft.”",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=142650"
+            },
+            {
+                "imgSrc": "assets/images/news/N11-1.jpg",
+                "imgAlt": "Taitung County Government Conducts Cross-Departmental Visit to Learn from Osaka Expo Experience in Preparation for 2026 Taitung Expo",
+                "date": "2025.9.28",
+                "title": "Taitung County Government Conducts Cross-Departmental Visit to Learn from Osaka Expo Experience in Preparation for 2026 Taitung Expo",
+                "desc": "To prepare for the “2026 Taitung Expo,” Director Lee Chi-Chung of the Taitung County Government's Cultural Affairs Department led a cross-departmental delegation to Japan on September 27th to observe preparations for the 2025 Osaka-Kansai Expo.",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=142278"
+            },
+            {
                 "imgSrc": "assets/images/news/N11.jpg",
                 "imgAlt": "Taitung County’s “Facing the Mountains and the Sea” Educational Initiative Debuts on the International Stage — Magistrate April Yao and School Principals Share the Future of Learning in the AI Era",
                 "date": "2025.9.24",
@@ -58,6 +74,14 @@
                 "title": "2026 Taitung Expo” Countdown Begins! Brand Identity Unveiled with a Hot Air Balloon Symbol conveying the ‘’Slow for Life'' Vision",
                 "desc": "The “2026 Taitung Expo” will be grandly launched next year. On September 13th, at the Hi on Taitung concert, the Taitung County Government unveiled the Expo’s brand identity for the first time, officially marking the start of the countdown to the event.",
                 "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=142427"
+            },
+            {
+                "imgSrc": "assets/images/news/N7-1.jpg",
+                "imgAlt": "Integration of Four Major Projects to Create the Austronesian Cultural Living Room – Artists from Seven Countries Journey from Taitung to the World",
+                "date": "2025.9.2",
+                "title": "Integration of Four Major Projects to Create the Austronesian Cultural Living Room – Artists from Seven Countries Journey from Taitung to the World",
+                "desc": "To advance the “Austronesian Cultural Homeland” policy, the Cultural Affairs Department of the Taitung County Government held the “Austronesian Living Room – Welcome Ceremony” on August 31 at the Just Arts House, bringing together international artists in Taitung.",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=141678"
             },
             {
                 "imgSrc": "assets/images/news/N7.png",
@@ -113,22 +137,6 @@
         "title": "Expo Event Table",
         "eventData": [
             {
-                "imgSrc": "assets/images/event/img_event-1.png",
-                "imgAlt": "Taitung Arts Festival",
-                "date": "2025.05.22 - 11.01",
-                "title": "Taitung Arts Festival",
-                "location": "Just Arts House / Taitung Art and Culture Center /  Wonderland Performing Arts Center",
-                "url": "https://www.facebook.com/Taitungartsfestival/?locale=zh_TW"
-            },
-            {
-                "imgSrc": "assets/images/event/img_event-8.png",
-                "imgAlt": "[Taitung Spirit Festival] liáo Room at Changbin",
-                "date": "2025.06.28 - 11.02",
-                "title": "[Taitung Spirit Festival] liáo Room at Changbin",
-                "location": "Changbin Township (See website for details)",
-                "url": "https://www.facebook.com/TaitungSpiritFestival/"
-            },
-            {
                 "imgSrc": "assets/images/event/img_event-10.JPG",
                 "imgAlt": "East Rift Valley Land Art Festival",
                 "date": "2025.07.01 -",
@@ -152,21 +160,22 @@
                 "location": "Taitung County (See website for details)",
                 "url": "https://www.facebook.com/TaitungFringeFestival/?locale=zh_TW"
             },
+
             {
-                "imgSrc": "assets/images/event/img_event-14.png",
-                "imgAlt": "[Taitung Spirit Festival] Healing Workshop",
-                "date": "2025.10.25",
-                "title": "[Taitung Spirit Festival] Healing Workshop",
-                "location": "Nanbali Homestay, Taitung",
-                "url": "https://www.facebook.com/TaitungSpiritFestival/"
+                "imgSrc": "assets/images/event/img_event-25.jpg",
+                "imgAlt": "[SO PLEASE DON'T GO]Emotional Mosaic Walking Tour",
+                "date": "2025.10.18 - 11.15",
+                "title": "[SO PLEASE DON'T GO]Emotional Mosaic Walking Tour",
+                "location": "Dawu Township・Chenggong Township・Taitung City",
+                "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0r3vEzFqH8oW832tDE7kASzruZAWaphnb9WYudcMcwBJ9vTufG4aARc7JBGHguDE3l&id=61575811330935&rdid=cCan0QBuTATrgbB1"
             },
             {
-                "imgSrc": "assets/images/event/img_event-15.png",
-                "imgAlt": "Chishang Autumn Rice Harvest Arts Festival",
-                "date": "2025.10.25 - 10.26",
-                "title": "Chishang Autumn Rice Harvest Arts Festival",
-                "location": "Paradise Road Rice Fields, Wanan Community, Chishang Township, Taitung",
-                "url": "https://www.facebook.com/Chishangarts.org"
+                "imgSrc": "assets/images/event/img_event-26.jpg",
+                "imgAlt": "[SO PLEASE DON'T GO]Taitung Homecoming Train",
+                "date": "2025.10.24 - 11.15",
+                "title": "[SO PLEASE DON'T GO]Taitung Homecoming Train",
+                "location": "See website for details",
+                "url": "https://www.facebook.com/p/%E6%9D%B1Go%E5%8F%B0%E6%9D%B1%E4%BA%BA%E6%BC%82%E7%A7%BB%E6%8B%BC%E6%90%8F%E4%B8%BB%E9%A1%8C%E5%B1%95-61575811330935/"
             },
             {
                 "imgSrc": "assets/images/event/img_event-16.jpg",
@@ -177,7 +186,7 @@
                 "url": "https://www.facebook.com/SoundartTaitung/"
             },
             {
-                "imgSrc": "assets/images/event/img_event-17.png",
+                "imgSrc": "assets/images/event/img_event-17.jpg",
                 "imgAlt": "Taiwan Open of Surfing",
                 "date": "2025.11.04 - 11.11",
                 "title": "Taiwan Open of Surfing",
@@ -191,6 +200,14 @@
                 "title": "[Taitung Spirit Festival] Mindful Slow Journey",
                 "location": "Luanshan Forest Culture Museum, Taitung",
                 "url": "https://www.facebook.com/TaitungSpiritFestival/"
+            },
+            {
+                "imgSrc": "assets/images/event/img_event-27.jpg",
+                "imgAlt": "[SO PLEASE DON'T GO]Taitung Drifters: Music and Story Sharing Session",
+                "date": "2025.11.22",
+                "title": "[SO PLEASE DON'T GO]Taitung Drifters: Music and Story Sharing Session",
+                "location": "Jazz Plaza, Taipei (See website for details)",
+                "url": "https://www.facebook.com/p/%E6%9D%B1Go%E5%8F%B0%E6%9D%B1%E4%BA%BA%E6%BC%82%E7%A7%BB%E6%8B%BC%E6%90%8F%E4%B8%BB%E9%A1%8C%E5%B1%95-61575811330935/"
             },
             {
                 "imgSrc": "assets/images/event/img_event-22.png",
@@ -325,7 +342,7 @@
         ],
         "applicationTitle": "Application Information",
         "applicationItems": [
-            "The first-phase of the application process closed on September 30. Official authorization notices will be issued shortly; we kindly ask applicants who have completed their submissions to await further notification.For applicants who completed online registration before September 30 but whose materials remain incomplete, the deadline for supplementary submissions of supplementary material has been extended to Tuesday, October 14 at 12:00. Please make sure to complete the required documents within this timeframe. We sincerely appreciate your cooperation.",
+            "The first-phase of the application process closed on September 30. Official authorization notices will be issued shortly; we kindly ask applicants who have completed their submissions to await further notification.",
             "For inquiries, please contact: <a href=\"mailto:info@taitungexpo2026.com.tw\" class=\"f-underline\">info@taitungexpo2026.com.tw</a>  /   LINE: <a href=\"https://lin.ee/xC0cxGi\" class=\"f-underline\" target=\"_blank\">@ttexpo</a>"
         ],
         "actionItems": [
@@ -341,6 +358,7 @@
         "department": "2026 Taitung Expo Office",
         "info": [
             "Email: <a href=\"mailto:info@taitungexpo2026.com.tw\">info@taitungexpo2026.com.tw</a>",
+            "Service Phone: 089-341757",
             "Official Line:<a href=\"https://lin.ee/xC0cxGi\" class=\"f-underline\" target=\"_blank\">@ttexpo</a>",
             "Service hours: Monday to Friday, 9:00-18:00"
         ],
