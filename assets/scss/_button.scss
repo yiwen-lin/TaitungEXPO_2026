@@ -1,0 +1,104 @@
+
+.btn {
+    padding: 0;
+	border-radius: 0;
+	border: none;
+    @include transition(all, .3s, ease-in);
+
+    .btn__text {
+        @include transition(all, .3s, ease-in);
+    }
+
+    &--blank {
+        padding: rem(14) rem(30);
+        border-radius: rem(30);
+        background-color: $white;
+
+        .btn__text {
+            display: block;
+            font-size: rem(14);
+            color: $primary-dark;
+            @include transition(opacity, .3s, ease-in-out);
+        }
+
+        @include rwd-min(769px) {
+            .btn__text {
+                font-size: rem(16);
+            }
+        }
+
+        &:hover {
+            .btn__text {
+                opacity: 0.7;
+            }
+        }
+
+        @include rwd-not-hover {
+            &:hover {
+                .btn__text {
+                    opacity: 1;
+                }
+            }
+        }
+    }
+
+    &--more {
+        display: flex;
+        align-items: center;
+        border-bottom: rem(1) solid #0A0C00;
+
+        &:after {
+            content: '';
+            display: block;
+            width: rem(10);
+            height: rem(10);
+            background-image: url('../images/arrow_more.svg');
+            background-size: rem(10);
+            background-repeat: no-repeat;
+            margin-left: rem(12);
+            @include transition(all, .3s, ease-in-out);
+        }
+
+        .btn__text {
+            @include f-unbounded;
+            font-size: rem(14);
+            color: #0A0C00;
+            font-weight: 600;
+        }
+
+        &:hover {
+            &:after {
+                @include rotate(45);
+            }
+        }
+
+        @include rwd-not-hover {
+            &:hover {
+                &:after {
+                    @include rotate(0);
+                }
+            }
+        }
+    }
+
+    &--closePopup {
+        width: rem(30);
+        height: rem(30);
+        background-color: transparent;
+        background-image: url('../images/btn_popup-close.svg');
+        background-size: rem(30);
+        background-repeat: no-repeat;
+
+        &:not(:disabled):not(.disabled).active,
+        &:not(:disabled):not(.disabled):active {
+            background-image: url('../images/btn_popup-close.svg');
+        }
+    }
+
+    &:focus {
+        outline: none;
+        box-shadow: none;
+    }
+
+
+}

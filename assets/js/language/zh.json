@@ -1,0 +1,478 @@
+{
+    "nav": {
+        "anchor1": "關於台東博覽會",
+        "anchor2": "最新消息",
+        "anchor3": "東博活動表",
+        "anchor4": "活動預告",
+        "anchor5": "品牌視覺系統",
+        "anchor6": "民間參與計畫",
+        "anchor7": "品牌授權專區",
+        "anchor8": "東博Style",
+        "anchor9": "聯絡我們"
+    },
+    "opening": {
+        "introTexts": [
+            "在台東，「慢」不只是速度，更是一種選擇——選擇與自然共生，與土地共鳴的生活哲學。",
+            "2026 台東博覽會，以「慢經濟」為策展核心，綻放「台東藍」為願景，融合南島文化精神與永續發展理念，鋪展山之路、海之路，到通往世界之路的未來藍圖。",
+            "誠摯邀請每一位踏上台東的人，放慢腳步，品味這片土地的靜謐與豐盛，找回生活最純粹的節奏。"
+        ]
+    },
+    "about": {
+        "aboutGroup1": {
+            "title": "台東：理想生活的實踐場域",
+            "texts": [
+                "坐落於山海交匯之處的台東，蘊藏豐饒的自然資源與多元共融的文化風貌，凝聚純粹壯麗的地景與深厚人文底蘊，孕育出獨具一格的地方價值。",
+                "2026 TAITUNG EXPO台東博覽會，將凝聚政府、在地產業與社會各界的力量，共同擘劃兼具包容性與永續性的地方發展藍圖。透過整年度的策展行動，深度呈現台東的文化底色與未來潛力，邀請來訪台東的人親身體驗這片土地的真、善、美，打造具有全球辨識度的「台東品牌」，讓台東的精神價值被世界看見、理解並珍惜。"
+            ]
+        },
+        "aboutGroup2": {
+            "title": "台東博覽會，現在進行式——<br>改變，從此刻開始",
+            "texts": [
+                "台東博覽會不僅是一場正在進行的行動實踐，更象徵著一個持續成長、逐步轉變的過程——每一次對話、每一場展演、每一項計畫，都是台東變革的見證與起點。我們誠邀每一位關心台東的夥伴，攜手成為這場改變的共同創造者。透過「現在進行式」的概念，讓改變從此刻開始，將永續發展的理想深植於台東，並將這股能量推向世界。"
+            ]
+        }
+    },
+    "news": {
+        "title": "最新消息",
+        "newsData": [
+            {
+                "imgSrc": "assets/images/news/N14.jpg",
+                "imgAlt": "縣府中階主管赴彰化標竿學習，為2026台東博覽會暖身啟航",
+                "date": "2025.11.10",
+                "title": "縣府中階主管赴彰化標竿學習，為2026台東博覽會暖身啟航",
+                "desc": "為厚植台東縣府團隊籌辦「2026台東博覽會」的策展能量與執行經驗，由縣長饒慶鈴於10月16日至17日率領實地參訪「2025台灣設計展在彰化」，為明年博覽會累積實務能量。",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=142662"
+            },
+            {
+                "imgSrc": "assets/images/news/N13.jpg",
+                "imgAlt": "迎接2026台東博覽會，縣府攜手糖廠啟動國際志工英語導覽培訓",
+                "date": "2025.10.31",
+                "title": "迎接2026台東博覽會，縣府攜手糖廠啟動國際志工英語導覽培訓",
+                "desc": "為迎接2026台東博覽會，縣府推動「英語人才培訓計畫」，結合國際志工與糖廠導覽員開設英語導覽課程，培育國際接待人才。",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=142903"
+            },
+            
+            {
+                "imgSrc": "assets/images/news/N12.jpg",
+                "imgAlt": "2025臺東工藝國際交流成果展登場！ 6位匠人共譜獻給臺東的情詩",
+                "date": "2025.10.16",
+                "title": "2025臺東工藝國際交流成果展登場！ 6位匠人共譜獻給臺東的情詩",
+                "desc": "臺東縣政府10/24–11/2於台東故事館舉辦「2025臺東工藝與國際交流駐村行銷計畫」成果展，以《藝息山海：獻給臺東工藝的十二首情詩》為題。",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=142650"
+            },
+            {
+                "imgSrc": "assets/images/news/N11-1.jpg",
+                "imgAlt": "臺東縣府跨局處赴日取經 借鏡大阪世博經驗打造2026博覽會",
+                "date": "2025.9.28",
+                "title": "臺東縣府跨局處赴日取經 借鏡大阪世博經驗打造2026博覽會",
+                "desc": "臺東縣政府為籌辦「2026台東博覽會」，27日由縣府文化處李吉崇處長率領組團，跨局處赴日本參訪「2025大阪・關西世博會」籌備情形。",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=142278"
+            },
+            {
+                "imgSrc": "assets/images/news/N11.jpg",
+                "imgAlt": "臺東縣「面山面海」教育亮相國際舞台—饒慶鈴縣長與校長齊聚教育年會 分享AI世代下的學習新未來",
+                "date": "2025.9.24",
+                "title": "臺東縣「面山面海」教育亮相國際舞台—饒慶鈴縣長與校長齊聚教育年會 分享AI世代下的學習新未來",
+                "desc": "臺東縣政府於24日受邀出席由親子天下主辦的「2025教育創新國際年會」，於臺北文創6樓舉辦教育論壇專場，向全國教育界展現臺東縣推動「面山面海」教育的具體成果。",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=142165"
+            },
+            {
+                "imgSrc": "assets/images/news/N10.jpg",
+                "imgAlt": "2026台東博覽會．民間參與計畫 熱情徵件中",
+                "date": "2025.9.18",
+                "title": "2026台東博覽會．民間參與計畫 熱情徵件中",
+                "desc": "2026台東博覽會「民間參與計畫」徵件自即日起至10/31，預計遴選至少12件計畫，總獎金1200萬元，歡迎各方行動者加入提案行列，一同打開屬於大家的博覽會。",
+                "url": "https://reurl.cc/EQvkLR"
+            },
+            {
+                "imgSrc": "assets/images/news/N9.jpg",
+                "imgAlt": "「2026 台東博覽會」倒數啟動！形象識別首度曝光 以台東熱氣球意象傳遞 Slow for Life 願景",
+                "date": "2025.9.13",
+                "title": "「2026 台東博覽會」倒數啟動！形象識別首度曝光 以台東熱氣球意象傳遞 Slow for Life 願景",
+                "desc": "「2026 台東博覽會」將於明年盛大展開，臺東縣政府13日於「嗨！出發吧來台東」演唱會上，首度公開形象識別，為展會正式倒數揭開序幕。",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=142427"
+            },
+            {
+                "imgSrc": "assets/images/news/N7-1.jpg",
+                "imgAlt": "四大計畫整合 打造南島文化客廳 七國藝術家從臺東走向世界",
+                "date": "2025.9.2",
+                "title": "四大計畫整合 打造南島文化客廳 七國藝術家從臺東走向世界",
+                "desc": "為深化「南島文化原鄉」政策，臺東縣政府文化處於8月31日在就藝會文化創生基地舉辦《南島客廳－接待儀式》，將國際藝術家齊聚臺東。",
+                 "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=141678"
+            },
+            {
+                "imgSrc": "assets/images/news/N7.png",
+                "imgAlt": "你的聲音，決定未來！台東博覽會民間參與OST論壇啟動邀你共創在地故事",
+                "date": "2025.8.26",
+                "title": "你的聲音，決定未來！台東博覽會民間參與OST論壇啟動邀你共創在地故事",
+                "desc": "2026台東博覽會以「民間參與計畫」拓展策展邊界，縣府八月舉辦四場開放空間會議(OST)，首場8/16於寶桑國中登場，邀請民眾以地方經驗提出建言與行動方案，以行動共創台東未來。",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=141371"
+            },
+            {
+                "imgSrc": "assets/images/news/N5.png",
+                "imgAlt": "2026台東博覽會閃耀熱氣球光雕，搶先點亮台東夏夜！",
+                "date": "2025.7.17",
+                "title": "2026台東博覽會閃耀熱氣球光雕，搶先點亮台東夏夜！",
+                "desc": "2025臺灣國際熱氣球嘉年華首場光雕音樂會特別串聯「2026台東博覽會」，首度於鹿野高台展演「TAITUNG EXPO 2026」光雕字樣，結合13顆備受矚目的熱氣球、無人機與煙火秀共演，打造今夏最華麗的夜空饗宴！",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=140770"
+            },
+            {
+                "imgSrc": "assets/images/news/img-250629.png",
+                "imgAlt": "以尊重為本！臺東縣府與卡大地布部落攜手 推動部落傳統領域土地多元活化",
+                "date": "2025.6.29",
+                "title": "以尊重為本！臺東縣府與卡大地布部落攜手 推動部落傳統領域土地多元活化",
+                "desc": "臺東縣政府與卡大地布部落正式簽署雙方「活化利用縣有土地計畫合作備忘錄」，象徵縣府與在地原住民族部落締結夥伴關係，尊重卡大地布部落傳統領域和成員權益，邁向共榮共好新里程碑。",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=140312"
+            },
+            {
+                "imgSrc": "assets/images/news/img-250621.png",
+                "imgAlt": "哆啦A夢現身台東市區！熱氣球嘉年華打造城市拍照熱點 彩繪公車即將啟程",
+                "date": "2025.6.21",
+                "title": "哆啦A夢現身台東市區！熱氣球嘉年華打造城市拍照熱點 彩繪公車即將啟程",
+                "desc": "2025臺灣國際熱氣球嘉年華將於7/5登場，哆啦A夢熱氣球首度亮相，搭配市區打卡點、彩繪專車及粉絲見面會，歡迎全國大小朋友來台東，與哆啦A夢共度歡樂暑假！",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=140167"
+            },
+            {
+                "imgSrc": "assets/images/news/img-250619.png",
+                "imgAlt": "2026台東博覽會品牌授權計畫開放申請中！",
+                "date": "2025.6.19",
+                "title": "2026台東博覽會品牌授權計畫開放申請中！",
+                "desc": "2026台東博覽會品牌授權計畫已於6月18日及19日舉辦說明會，正式啟動品牌商標授權申請程序。誠摯邀請各界品牌與廠商踴躍參與，共同拓展展會商機！",
+                "url": "https://culture.taitung.gov.tw/activity/2026%E5%8F%B0%E6%9D%B1%E5%8D%9A%E8%A6%BD%E6%9C%83%E3%83%BB%E5%93%81%E7%89%8C%E6%8E%88%E6%AC%8A%E5%BE%B5%E4%BB%B6%E7%94%B3%E8%AB%8B"
+            },
+            {
+                "imgSrc": "assets/images/news/img-250213.png",
+                "imgAlt": "2026台東博覽會規劃啟動！臺東縣府跨部門凝聚共識 共創台東未來",
+                "date": "2025.2.13",
+                "title": "2026台東博覽會規劃啟動！臺東縣府跨部門凝聚共識 共創台東未來",
+                "desc": "臺東縣政府於114年第一次擴大主管會議中進行「2026台東博覽會」整體規畫說明，期強化橫向協作，凝聚共識推動台東走向國際。",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=137259"
+            }
+        ]
+    },
+    "event": {
+        "title": "台東博覽會活動表",
+        "eventData": [
+            {
+                "imgSrc": "assets/images/event/img_event-10.JPG",
+                "imgAlt": "縱谷大地藝術季・漂鳥197",
+                "date": "2025.07.01 -",
+                "title": "縱谷大地藝術季・漂鳥197",
+                "location": "花東縱谷多處場域（詳見官網）",
+                "url": "https://www.facebook.com/EastRiftValleyGranaryFestivities/"
+            },
+            {
+                "imgSrc": "assets/images/event/img_event-19.jpg",
+                "imgAlt": "南迴藝術季",
+                "date": "2025.07.01 -",
+                "title": "南迴藝術季",
+                "location": "台東縣南迴公路（詳見官網）",
+                "url": "https://www.facebook.com/NanhuiArtProject/?locale=zh_TW"
+            },
+            {
+                "imgSrc": "assets/images/event/img_event-24.png",
+                "imgAlt": "臺東藝穗節",
+                "date": "2025.10.16 - 11.23",
+                "title": "臺東藝穗節",
+                "location": "台東縣（詳見官網）",
+                "url": "https://www.facebook.com/TaitungFringeFestival/?locale=zh_TW"
+            },
+            {
+                "imgSrc": "assets/images/event/img_event-16.jpg",
+                "imgAlt": "臺東聲音藝術節",
+                "date": "2025.11.01 - 12.07",
+                "title": "臺東聲音藝術節",
+                "location": "台東美術館",
+                "url": "https://www.facebook.com/SoundartTaitung/"
+            },
+            {
+                "imgSrc": "assets/images/event/img_event-27.jpg",
+                "imgAlt": "【東Go！】漂移台東人 音樂故事分享會",
+                "date": "2025.11.22",
+                "title": "【東Go！】漂移台東人 音樂故事分享會",
+                "location": "爵士廣場庭園（詳見官網）",
+                "url": "https://www.facebook.com/taitunggo.dontgo/posts/pfbid02nD9S1KifcWK4ak9jXBX1PZaPFCZHh8cTw1RhqapVdNeq1RdzmX1D2cnA6B6oy2y9l"
+            },
+            {
+                "imgSrc": "assets/images/event/img_event-28.jpg",
+                "imgAlt": "【臺東慢食節】採集餐桌：森川里海篇",
+                "date": "2025.12.6 - 12.7",
+                "title": "【臺東慢食節】採集餐桌：森川里海篇",
+                "location": "高雄駁二藝術特區 大義公園",
+                "url": "https://www.facebook.com/share/p/1CzmPZsQps/?mibextid=wwXIfr"
+            },
+            {
+                "imgSrc": "assets/images/event/img_event-29.jpg",
+                "imgAlt": "2025 Action Taitung Award 臺東設計獎 頒獎典禮",
+                "date": "2025.12.10",
+                "title": "2025 Action Taitung Award 臺東設計獎 頒獎典禮",
+                "location": "臺東美術館",
+                "url": "https://www.facebook.com/TaitungDesignCenter/posts/pfbid02w9tZyeK8yKEwPSFdZ1NydFJYaicRWGL1mtkKTdQGp7FDU5gmC2i8TQ7rwBtK8mggl?rdid=c3GISkiGPf4XfnQP"
+            },
+            {
+                "imgSrc": "assets/images/event/img_event-22.png",
+                "imgAlt": "Taiwan PASIWALI Festival 國際原住民音樂節",
+                "date": "2025.12.13 - 12.14",
+                "title": "Taiwan PASIWALI Festival 國際原住民音樂節",
+                "location": "臺東森林公園",
+                "url": "https://www.facebook.com/Taiwan.PASIWALI.Festival"
+            }
+        ]
+    },
+    "preview": {
+        "curatingTitle1": "<span>10大策展議題 X </span><span>超過13場大型展覽與活動 <i class=\"break-mb\">X</i> </span><br class=\"display--pc\"><i class=\"break-pc\">X</i> 台東12知名活動品牌聯動",
+        "curatingTitle2": "<span><i class=\"break-mb\">——</i>2026年，邀您一起體驗</span><span>台東的多元精彩！</span>",
+        "curatingIntro": "由一顆落下台東土地的慢經濟種子開始，向下扎根，向上展望，逐漸萌芽、延展出「空氣」、「水」、「自然力量」、「聲音」、「漂流」、「生活」、「慢經濟體」、「台東品牌」與「永續台東」等策展議題，一層層勾勒出台東獨有的慢經濟想像藍圖。",
+        "curatingHint": "點擊策展議題查看詳情",
+        "featuresTitle": "串連台東山海與特色活動品牌<br>打造整年度的精彩！",
+        "features": {
+            "feature1": {
+                "text": "台東炮炸<br>寒單爺",
+                "alt": "台東炮炸寒單爺",
+                "href": "https://www.zztaitung.com/20114/taitung-bombhandan-2"
+            },
+            "feature2": {
+                "text": "自然醒<br>慢活祭",
+                "alt": "自然醒慢活祭",
+                "href": "https://www.taitungspiritfestival.tw"
+            },
+            "feature3": {
+                "text": "臺東慢食節",
+                "alt": "臺東慢食節",
+                "href": "https://slowfoodtaitung.tw/festival"
+            },
+            "feature4": {
+                "text": "PASIWALI<br>原住民族<br>國際音樂節",
+                "alt": "PASIWALI原住民族國際音樂節",
+                "href": "https://taiwanpasiwalifestival.com"
+            },
+            "feature5": {
+                "text": "台東<br>最美星空",
+                "alt": "台東最美星空",
+                "href": "https://www.facebook.com/StarryTaitung/?locale=zh_TW"
+            },
+            "feature6": {
+                "text": "臺灣國際<br>熱氣球嘉年華",
+                "alt": "臺灣國際熱氣球嘉年華",
+                "href": "https://balloontaiwan.taitung.gov.tw/zh-tw "
+            },
+            "feature7": {
+                "text": "臺灣國際<br>衝浪公開賽",
+                "alt": "臺灣國際衝浪公開賽",
+                "href": "https://www.facebook.com/taiwanopenofsurfing/"
+            },
+            "feature8": {
+                "text": "東海岸<br>大地藝術節",
+                "alt": "東海岸大地藝術節",
+                "href": "https://www.eastcoast-nsa.gov.tw/teclandart/"
+            },
+            "feature9": {
+                "text": "南迴藝術季<br>縱谷大地藝術季",
+                "alt": "南迴藝術季 縱谷大地藝術季",
+                "links": [
+                    {
+                        "text": "南迴藝術季",
+                        "href": "https://www.facebook.com/NanhuiArtProject/?locale=zh_TW"
+                    },
+                    {
+                        "text": "縱谷大地藝術季",
+                        "href": "https://www.pioneeringeastriftvalleygranaryfestivities.com.tw"
+                    }
+                ]
+            },
+            "feature10": {
+                "text": "臺東藝術節<br>臺東藝穗節",
+                "alt": "臺東藝術節 臺東藝穗節",
+                "links": [
+                    {
+                        "text": "臺東藝術節",
+                        "href": "https://www.facebook.com/Taitungartsfestival/?locale=zh_TW"
+                    },
+                    {
+                        "text": "臺東藝穗節",
+                        "href": "https://www.taitungfringefestival.com"
+                    }
+                ]
+            },
+            "feature11": {
+                "text": "池上秋收<br>稻穗藝術節",
+                "alt": "池上秋收稻穗藝術節",
+                "href": "https://www.facebook.com/Chishangarts.org"
+            },
+            "feature12": {
+                "text": "台東光祭",
+                "alt": "台東光祭",
+                "href": "https://www.facebook.com/TaitungLightFestival/?locale=zh_TW"
+            }
+        }
+    },
+    "vi": {
+        "title": "品牌視覺系統",
+        "subtitle": "Amazing Taitung",
+        "logoAlt": "台東博覽會 2026 TAITUNG EXPO",
+        "introTexts": [
+            "臺灣國際熱氣球嘉年華已成為台東一年一度的重要盛事，熱氣球更象徵這片土地的獨特魅力。從充氣、燃燒器點燃，到氣囊漸漸成形並緩緩升空，這個過程宛如台東的成長軌跡——醞釀、蓄勢，最終自信綻放，翱翔天際，邁向無限可能。",
+            "台東博覽會標誌設計以此意象為核心，運用具代表性的「台東藍」作為主色調，並結合熱氣球升起的動態美感，巧妙構築出一個視覺化的驚嘆號。不僅展現台東的活力與蓬勃發展，更象徵這片土地所蘊藏的無限驚喜——壯麗的自然景觀、深厚的人文底蘊、獨特的文化風貌，等待人們探索、感受與共鳴。"
+        ],
+        "imageryTitle": "標誌圖形意象",
+        "imageryItems": [
+            "自然的孕育",
+            "文化的積累",
+            "Amazing Taitung 綻放精彩"
+        ]
+    },
+    "participation": {
+        "title": "民間參與計畫",
+        "intro": "臺東縣政府推出「2026台東博覽會民間參與計畫」，邀請當地民間團體共同創造台東未來願景，透過創意實現對「台東博覽會」的獨特想像。本計畫將依循博覽會整體執行架構，並呼應聯合國17項永續發展目標（SDGs），公開徵選具前瞻性與多元觀點的策展提案。預計遴選至少12件計畫，透過民間的策展能量，共同勾勒台東多元而永續的未來藍圖，讓世界看見台東的創意與行動力！",
+        "infoTitle": "申請資訊",
+        "infoItems": [
+            "申請時間：即日起至2025年10月31日(五)止",
+            "電子資料寄送地址：<a href=\"mailto:slifetaitung@gmail.com\" class=\"f-underline\">slifetaitung@gmail.com</a> "
+        ],
+        "actionItems": [
+            "活動簡章",
+            "說明會簡報"
+        ]
+    },
+    "authorization": {
+        "title": "品牌授權專區",
+        "introTexts": [
+            "為推廣「2026台東博覽會」品牌識別的應用與價值延伸，臺東縣政府訂定《品牌商標授權作業辦法》，建立授權合作機制，誠摯邀請品牌、廠商、通路及企業參與。透過授權使用博覽會標誌、標準字、輔助圖形及專用色等核心識別元素，擴大博覽會的社會影響力，並促進產業共創與地方品牌發展，展現台東的文化能量與創新精神。",
+            "授權機制明訂申請條件、使用規範與審查流程，確保識別系統的正確一致性，提升辨識度並支持永續發展。詳細規範請參見《2026台東博覽會品牌商標授權作業辦法》與《2026台東博覽會品牌手冊》。"
+        ],
+        "applicationTitle": "申請資訊",
+        "applicationItems": [
+            "第一階段申請已於 9/30 截止，近期將寄發正式授權公文通知，敬請已完成送件之廠商耐心等候。",
+            "相關問題請洽： <a href=\"mailto:info@taitungexpo2026.com.tw\" class=\"f-underline\">info@taitungexpo2026.com.tw</a>  /   LINE: <a href=\"https://lin.ee/xC0cxGi\" class=\"f-underline\" target=\"_blank\">@ttexpo</a>"
+        ],
+        "actionItems": [
+            "作業辦法",
+            "品牌手冊及授權素材",
+            "說明會簡報"
+        ]
+    },
+    "style": {
+        "title": "東博Style"
+    },
+    "contact": {
+        "department": "2026台東博覽會-專案管理辦公室",
+        "info": [
+            "電子郵件：<a href=\"mailto:info@taitungexpo2026.com.tw\">info@taitungexpo2026.com.tw</a>",
+            "聯絡電話：089-341757",
+            "官方LINE:<a href=\"https://lin.ee/xC0cxGi\" target=\"_blank\">@ttexpo</a>",
+            "服務時間：週一至週五，9:00-18:00"
+        ],
+        "sectors": [
+            "指導單位｜國家發展委員會、文化部",
+            "主辦單位｜臺東縣政府",
+            "執行單位｜玩美文創設計工作室"
+        ]
+    },
+    "popup": {
+        "0": {
+            "title": "序章｜一切從種子落下土地開始。",
+            "desc": "「種子」在排灣族語中被喚作vusam，代表著生命與文化的起源與延續，象徵著包容、多元與希望。一粒粒記憶的種子，在這片沃土中悄然萌芽，緩緩生長。",
+            "tagsTitle": "策展議題",
+            "tags": "＃文化保種＃生命保種",
+            "previewTitle": "亮點預告",
+            "previewContent": [
+                "【台東時光走廊】——屬於台東記憶與故事的主題展，透過故事採集、舊照片徵集，讓每段故事繼續發聲，讓台東的時光，持續流動。"
+            ]
+        },
+        "1": {
+            "title": "第1章｜空氣，孕育萬物萌芽的契機。",
+            "desc": "引用布農族語 mihu misang，以空氣傳遞問候，象徵台東的純淨、自由與無形之愛。",
+            "tagsTitle": "策展議題",
+            "tags": "＃空氣無所不在 ＃森林之都",
+            "previewTitle": "亮點預告",
+            "previewContent": [
+                "轉角再造村里補助計畫】——推動「轉角森林」社區綠美化，讓城市與自然共生，共築永續宜居的生活場景！"
+            ]
+        },
+        "2": {
+            "title": "第2章｜水，喚醒沉睡的種子。",
+            "desc": "「海」在阿美族語中稱為riyal，象徵著與海洋互動，前往海邊捕魚、採集的生活連結。太平洋海水潤養著台東，讓土地、生命、文化與記憶隨潮共生。水不僅連結山與海、人與人，更承載祖先的智慧與深厚的情感。",
+            "tagsTitle": "策展議題",
+            "tags": "＃太平洋黑潮 ＃島是船海是路",
+            "previewTitle": "亮點預告",
+            "previewContent": [
+                "涵蓋【泛太平洋國際駐村交流展】、【台東航海動能進行式】與【南島客廳】等計畫，展現台東深厚的南島底蘊與海洋文化想像。"
+            ]
+        },
+        "3": {
+            "title": "第3章｜自然力量，伴隨破土而出的勇氣。",
+            "desc": "塑造台東的山海，也鍛鍊出台東人的堅韌。敬畏自然，崇尚自然，取之自然，是這塊土地上最深刻的信仰。",
+            "tagsTitle": "策展議題",
+            "tags": "＃崇尚自然，敬畏自然，取之自然",
+            "previewTitle": "亮點預告",
+            "previewContent": [
+                "從部落傳承的與自然共生的智慧出發，延伸至沉浸式文化體驗，邀請人們以身心融入大地，傾聽土地的脈動，學習與自然同行的勇氣與謙遜。"
+            ]
+        },
+        "4": {
+            "title": "第4章｜聲音，與地共鳴的旋律。",
+            "desc": "從風的呢喃到部落的吟唱，從孩子的笑聲到溪流的低語，聲音是台東最動人的語言，是文化的節奏、生活的交響曲。",
+            "tagsTitle": "策展議題",
+            "tags": "＃台東好聲音 ＃台東大唱片行",
+            "previewTitle": "亮點預告",
+            "previewContent": [
+                "【臺東聲音藝術節】【音樂與藝術】——採集台東的各種聲音，通過多元的展演形式，帶領大眾從全新視角認識台東，探索聲音藝術的無限可能。"
+            ]
+        },
+        "5": {
+            "title": "第5章｜漂流，找尋安放自身的所在。",
+            "desc": "kulumaha，在布農語中意為「回家」。台東以開放的姿態，接住每位漂流者的靈魂。夢想得以在此落地生根，身心靈亦有所歸屬。",
+            "tagsTitle": "策展議題",
+            "tags": "＃向前走 ＃回家/東漂",
+            "previewTitle": "亮點預告",
+            "previewContent": [
+                "【東漂與外漂的情感拼圖】——以東漂與外漂的生命故事，喚起對台東的集體記憶、人與土地之間深厚的情感連結。"
+            ]
+        },
+        "6": {
+            "title": "第6章｜生活，盡情綻放的光彩。",
+            "desc": "涵蓋台東各大生活議題，從每一餐到每一場演出，都是這座城市對幸福的詮釋。",
+            "tagsTitle": "策展議題",
+            "tags": "＃食時台東 ＃特色教育 ＃安心城市 ＃藝文展演 ＃社會福利 ＃公共建設",
+            "previewTitle": "亮點預告",
+            "previewContent": [
+                "【台東教育博覽會】——感受台東與自然共振的五感教育體驗。",
+                "【台東棒球展】——回到棒球原鄉，看見一顆顆白球背後，那些關於汗水與夢的故事。",
+                "【台東設計力】——從概念到實踐，從日常到非凡，設計原來離我們這麼近！",
+                "【台東建設展】——從經典現代主義到獨特的在地風格建築，展開精彩的台東建築巡禮旅程！",
+                "【台東老城區散策計畫】——走入台東老城街巷，感受經典歷史記憶，探索城市的永續發展風貌。"
+            ]
+        },
+        "7": {
+            "title": "第7章｜慢經濟體，台東通往世界永續之路。",
+            "desc": "台東的一市、二鎮、十三鄉，每個鄉鎮都是一個獨立、自足的慢經濟實驗場，以「慢」為橋樑，連結世界，創造獨特的地方價值。",
+            "tagsTitle": "策展議題",
+            "tags": "＃一市二鎮十三鄉 ＃台東國際隊 ＃慢經濟學院",
+            "previewTitle": "亮點預告",
+            "previewContent": [
+                "【慢經濟鄉鎮品牌計畫】——打造慢經濟實驗場，從品牌創生到永續實踐，讓地方價值被看見。"
+            ]
+        },
+        "8": {
+            "title": "第8章｜台東品牌",
+            "desc": "在慢經濟發展策略的指引下，台東發展出與自然共生、與文化同在的「台東品牌」，在在展現其真實與自信。台東博覽會將串連舉足輕重的12大台東活動品牌，打造2026整年度的精彩。",
+            "tagsTitle": "策展議題",
+            "tags": "#台東慢經濟活動品牌",
+            "previewTitle": "亮點預告",
+            "previewContent": [
+                "串連【台東炮炸寒單爺】、【自然醒慢活祭】、【臺東慢食節】、【PASIWALI原住民國際音樂節】、【台東最美星空】、【臺灣國際熱氣球嘉年華】、【臺灣國際衝浪公開賽】、【月光・海音樂會】、【大地藝術季】、【臺東藝術節】、【臺東藝術節】、【池上秋收稻穗藝術節】、【台東光祭】等知名台東品牌，沉浸式感受台東品牌魅力！"
+            ]
+        },
+        "9": {
+            "title": "第9章｜永續經營，持續綻放台東風采。",
+            "desc": "永續發展不只是選擇，而是一種責任。台東以行動回應SDGs，從環境到經濟、從社會到治理，打造兼容並蓄的城鄉發展模式，讓台東成為真正落實永續精神的地方。",
+            "tagsTitle": "策展議題",
+            "tags": "＃城鄉發展 ＃極端氣候 ＃能源城市 ＃樂齡及長照服務 ＃低碳旅遊",
+            "previewTitle": "亮點預告",
+            "previewContent": [
+                "【台東博覽會主展覽】——完整呈現台東博覽會策展主軸與永續理念，涵蓋縣府各局處施政成果、鄉鎮在地特色，勾勒台東未來城鄉發展的藍圖。",
+                "【台東舊站特區計畫】——臺東縣政府整合新生路、桂林北路、中華路交界的金三角區域，重整空間、分區定位，結合觀光、休閒、創新與消費，延伸夜間生活場域，推動慢經濟城市品牌，打造多元活力的「台東舊站特區」！"
+            ]
+        }
+    }
+}
