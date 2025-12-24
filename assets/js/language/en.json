@@ -36,6 +36,47 @@
         "title": "Latest News",
         "newsData": [
             {
+                "imgSrc": "assets/images/news/N19.jpg",
+                "imgAlt": "Announcement of the Final Review List",
+                "date": "2025.12.16",
+                "title": "Announcement of the Final Review List",
+                "desc": "26 proposals from the 'Community Participation Plan' have passed the preliminary and secondary reviews, with the final review meeting on December 24.",
+                "url": "https://culture.taitung.gov.tw/news/%E3%80%90%E5%85%AC%E5%91%8A%E3%80%912026-%E5%8F%B0%E6%9D%B1%E5%8D%9A%E8%A6%BD%E6%9C%83%E6%B0%91%E9%96%93%E5%8F%83%E8%88%87%E8%A8%88%E7%95%AB%E6%B1%BA%E5%AF%A9%E5%90%8D%E5%96%AE"
+            },
+            {
+                "imgSrc": "assets/images/news/N18.jpg",
+                "imgAlt": "2025 Action Taitung Award winners announced: Design power responds to Taitung and builds momentum for next year’s Taitung Expo.",
+                "date": "2025.12.10",
+                "title": "2025 Action Taitung Award winners announced: Design power responds to Taitung and builds momentum for next year’s Taitung Expo.",
+                "desc": "The Taitung County Government hosted the 2025 Action Taitung Award, honoring 38 design teams that put slow economy values into action. The winners were announced at the Taitung Art Museum, and lay the groundwork for the 2026 Taitung Expo.",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=143693"
+            },
+            {
+                "imgSrc": "assets/images/news/N17.jpg",
+                "imgAlt": "Taitung Slow Food Festival’s first Kaohsiung showcase successfully concludes, with Magistrate Yao inviting the public to join the Taitung Expo next year",
+                "date": "2025.12.8",
+                "title": "Taitung Slow Food Festival’s first Kaohsiung showcase successfully concludes, with Magistrate Yao inviting the public to join the Taitung Expo next year",
+                "desc": "The final stop of the 2025 Taitung Slow Food Festival concluded successfully in Kaohsiung. County Magistrate April Yao promoted Taitung’s slow economy, invited southern residents to celebrate New Year’s Eve in Taitung, and looked ahead to the summer of 2026 with an invitation to join the Taitung Expo, until the Slow Food Festival convenes again.",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&sms=12652&s=143640"
+            },
+            {
+                "imgSrc": "assets/images/news/N16.jpg",
+                "imgAlt": "At the “Taitung People Music & Story Reunion” in Taipei, every note becomes a pathway home.",
+                "date": "2025.11.23",
+                "title": "At the “Taitung People Music & Story Reunion” in Taipei, every note becomes a pathway home.",
+                "desc": "To warm up for the 2026 Taitung Expo, the Taitung County Government held the “Drifting Taitung People” Music & Story Reunion in Taipei on the 22nd, bringing together Taitung’s diaspora and friends to share nostalgia and connection through home music and flavors.",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=143342"
+            },
+            {
+                "imgSrc": "assets/images/news/N15.jpg",
+                "imgAlt": "Homecoming Train for Taitung’s diaspora launched, a warm-up for next year’s “Taitung People: Drifting & Striving” exhibition.",
+                "date": "2025.11.16",
+                "title": "Homecoming Train for Taitung’s diaspora launched, a warm-up for next year’s “Taitung People: Drifting & Striving” exhibition.",
+                "desc": "On November 15, the Taitung County Government chartered a Tze-Chiang Limited Express to host the “Homecoming Story Train,” serving as an early warm-up and preview for the “2026 Taitung Expo — East GO! Taitung People: Drifting & Striving” thematic exhibition. The journey unfolded as a moving carriage party filled with both laughter and tears.",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&sms=12652&s=143220"
+            },
+
+            {
                 "imgSrc": "assets/images/news/N14.jpg",
                 "imgAlt": "Officials from the Taitung County Government travel to Changhua for a benchmarking visit, kickstarting preparations for the 2026 Taitung Expo.",
                 "date": "2025.11.10",
@@ -169,54 +210,12 @@
                 "url": "https://www.facebook.com/NanhuiArtProject/?locale=zh_TW"
             },
             {
-                "imgSrc": "assets/images/event/img_event-24.png",
-                "imgAlt": "Taitung Fringe Festival",
-                "date": "2025.10.16 - 11.23",
-                "title": "Taitung Fringe Festival",
-                "location": "Taitung County (See website for details)",
-                "url": "https://www.facebook.com/TaitungFringeFestival/?locale=zh_TW"
-            },
-
-           
-            {
-                "imgSrc": "assets/images/event/img_event-16.jpg",
-                "imgAlt": "Taitung Sound Art Festival",
-                "date": "2025.11.01 - 12.07",
-                "title": "Taitung Sound Art Festival",
-                "location": "Taitung Art Museum",
-                "url": "https://www.facebook.com/SoundartTaitung/"
-            },            
-            {
-                "imgSrc": "assets/images/event/img_event-27.jpg",
-                "imgAlt": "[SO PLEASE DON'T GO]Taitung Drifters: Music and Story Sharing Session",
-                "date": "2025.11.22",
-                "title": "[SO PLEASE DON'T GO]Taitung Drifters: Music and Story Sharing Session",
-                "location": "Jazz Plaza, Taipei (See website for details)",
-                "url": "https://www.facebook.com/taitunggo.dontgo/posts/pfbid02nD9S1KifcWK4ak9jXBX1PZaPFCZHh8cTw1RhqapVdNeq1RdzmX1D2cnA6B6oy2y9l"
-            },
-            {
-                "imgSrc": "assets/images/event/img_event-28.jpg",
-                "imgAlt": "［Slow Food Taitung］Forage to Table: Forest, River, and Ocean Chapter",
-                "date": "2025.12.06 - 12.07",
-                "title": "［Slow Food Taitung］Forage to Table: Forest, River, and Ocean Chapter",
-                "location": "Pier-2 Art Center, Dayi Park, Kaohsiung",
-                "url": "https://www.facebook.com/share/p/1CzmPZsQps/?mibextid=wwXIfr"
-            },
-            {
-                "imgSrc": "assets/images/event/img_event-29.jpg",
-                "imgAlt": "2025 Action Taitung Award — Taitung Design Award Ceremony",
-                "date": "2025.12.10",
-                "title": "2025 Action Taitung Award — Taitung Design Award Ceremony",
-                "location": "Taitung Art Museum",
-                "url": "https://www.facebook.com/TaitungDesignCenter/posts/pfbid02w9tZyeK8yKEwPSFdZ1NydFJYaicRWGL1mtkKTdQGp7FDU5gmC2i8TQ7rwBtK8mggl?rdid=c3GISkiGPf4XfnQP"
-            },
-            {
-                "imgSrc": "assets/images/event/img_event-22.png",
-                "imgAlt": "Taiwan PASIWALI Festival",
-                "date": "2025.12.13 - 12.14",
-                "title": "Taiwan PASIWALI Festival",
-                "location": "Taitung Forest Park",
-                "url": "https://www.facebook.com/Taiwan.PASIWALI.Festival"
+                "imgSrc": "assets/images/event/img_event-30.jpg",
+                "imgAlt": "Thanks, Taitung! Good Trouble Year-End Exhibition",
+                "date": "2025.12.02 - 2026.11.30",
+                "title": "Thanks, Taitung! Good Trouble Year-End Exhibition",
+                "location": "Taitung Design Center",
+                "url": "https://www.facebook.com/TaitungDesignCenter/posts/pfbid02aGyuMzHJ5Q2zCceMmwyx22DFo2NQRXHuiY5M9CHQUh22VfurZgGWyLKpYECoEYZHl"
             }
         ]
     },
@@ -325,14 +324,15 @@
     "participation": {
         "title": "Community Participation Plan",
         "intro": "The Taitung County Government is launching the \"2026 Taitung Expo Community Participation Plan,\" inviting community and private organizations to co-create a future vision for Taitung through their imagination and interpretations at the Expo.<br>This initiative will follow the Expo's overall implementation framework and echo the United Nations' 17 Sustainable Development Goals (SDGs), seeking forward-thinking and diverse curatorial concepts, through a public call for proposals. At least 12 projects will be selected. Harnessing the curatorial energy of the local community, the program aims to collectively shape a sustainable and vibrant future for Taitung — and to share its creative spirit with the world.",
-        "infoTitle": "Application Information",
+        "infoTitle": "※ The final selection results were announced on Tuesday, December 16. Please refer to the link below for details.",
         "infoItems": [
-            "Application period: From now until October 31, 2025 (Friday)",
-            "Mailing address for electronic files: <a href=\"mailto:slifetaitung@gmail.com\" class=\"f-underline\">slifetaitung@gmail.com</a>"
+           
+            
         ],
         "actionItems": [
             "Download Program Overview",
-            "Download Briefing Presentation"
+            "Download Briefing Presentation",
+            "Download Final Review List"
         ]
     },
     "authorization": {
@@ -343,8 +343,7 @@
         ],
         "applicationTitle": "Application Information",
         "applicationItems": [
-            "The first-phase of the application process closed on September 30. Official authorization notices will be issued shortly; we kindly ask applicants who have completed their submissions to await further notification.",
-            "For inquiries, please contact: <a href=\"mailto:info@taitungexpo2026.com.tw\" class=\"f-underline\">info@taitungexpo2026.com.tw</a>  /   LINE: <a href=\"https://lin.ee/xC0cxGi\" class=\"f-underline\" target=\"_blank\">@ttexpo</a>"
+            "The first-phase of the application process were closed, for inquiries, please contact: <a href=\"mailto:info@taitungexpo2026.com.tw\" class=\"f-underline\">info@taitungexpo2026.com.tw</a>  /   LINE: <a href=\"https://lin.ee/xC0cxGi\" class=\"f-underline\" target=\"_blank\">@ttexpo</a> "
         ],
         "actionItems": [
             "Download Licensing Procedures",

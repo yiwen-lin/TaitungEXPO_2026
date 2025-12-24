@@ -36,6 +36,47 @@
         "title": "最新消息",
         "newsData": [
             {
+                "imgSrc": "assets/images/news/N19.jpg",
+                "imgAlt": "2026台東博覽會・民間參與計畫 決審名單公告",
+                "date": "2025.12.16",
+                "title": "2026台東博覽會・民間參與計畫 決審名單公告",
+                "desc": "民間參與計畫總計26件提案通過初審、複審，將於12/24召開決審會。",
+                "url": "https://culture.taitung.gov.tw/news/%E3%80%90%E5%85%AC%E5%91%8A%E3%80%912026-%E5%8F%B0%E6%9D%B1%E5%8D%9A%E8%A6%BD%E6%9C%83%E6%B0%91%E9%96%93%E5%8F%83%E8%88%87%E8%A8%88%E7%95%AB%E6%B1%BA%E5%AF%A9%E5%90%8D%E5%96%AE"
+            },
+            {
+                "imgSrc": "assets/images/news/N18.jpg",
+                "imgAlt": "2025 Action Taitung Award 獲獎揭曉，以設計力回應台東，預熱明年台東博覽會",
+                "date": "2025.12.10",
+                "title": "2025 Action Taitung Award 獲獎揭曉，以設計力回應台東，預熱明年台東博覽會",
+                "desc": "臺東縣府辦理2025 Action Taitung Award，表彰38組實踐慢經濟與行動力的設計者，於臺東美術館揭曉，並為2026台東博覽會奠定基礎。",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=143693"
+            },
+            {
+                "imgSrc": "assets/images/news/N17.jpg",
+                "imgAlt": "臺東慢食節高雄首展落幕，饒縣長熱邀明年參加台東博覽會",
+                "date": "2025.12.8",
+                "title": "臺東慢食節高雄首展落幕，饒縣長熱邀明年參加台東博覽會",
+                "desc": "2025臺東慢食節高雄最終場圓滿落幕，縣長饒慶鈴行銷慢經濟，邀南部民眾跨年赴台東，並相約2026暑假「東漂」參與台東博覽會，再會慢食節。",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&sms=12652&s=143640"
+            },
+            {
+                "imgSrc": "assets/images/news/N16.jpg",
+                "imgAlt": "「台東人音樂故事同學會」在台北，每個音符都是想家路徑",
+                "date": "2025.11.23",
+                "title": "「台東人音樂故事同學會」在台北，每個音符都是想家路徑",
+                "desc": "臺東縣府為2026台東博覽會預熱，22日在台北舉辦「漂移台東人」音樂故事同學會，旅外台東人與朋友齊聚，以歌聲與家鄉味分享思念與連結。",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=143342"
+            },
+            {
+                "imgSrc": "assets/images/news/N15.jpg",
+                "imgAlt": "旅外台東人返鄉列車回家！為明年台東人漂移拼搏主題展暖場開序",
+                "date": "2025.11.16",
+                "title": "旅外台東人返鄉列車回家！為明年台東人漂移拼搏主題展暖場開序",
+                "desc": "臺東縣政府於11/15包下自強號舉辦返鄉故事列車，提前為「東GO！台東人漂移拼搏主題展」熱身預告，成為一場有笑有淚的車廂派對。",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&sms=12652&s=143220"
+            },
+
+            {
                 "imgSrc": "assets/images/news/N14.jpg",
                 "imgAlt": "縣府中階主管赴彰化標竿學習，為2026台東博覽會暖身啟航",
                 "date": "2025.11.10",
@@ -169,53 +210,14 @@
                 "location": "台東縣南迴公路（詳見官網）",
                 "url": "https://www.facebook.com/NanhuiArtProject/?locale=zh_TW"
             },
+                       
             {
-                "imgSrc": "assets/images/event/img_event-24.png",
-                "imgAlt": "臺東藝穗節",
-                "date": "2025.10.16 - 11.23",
-                "title": "臺東藝穗節",
-                "location": "台東縣（詳見官網）",
-                "url": "https://www.facebook.com/TaitungFringeFestival/?locale=zh_TW"
-            },
-            {
-                "imgSrc": "assets/images/event/img_event-16.jpg",
-                "imgAlt": "臺東聲音藝術節",
-                "date": "2025.11.01 - 12.07",
-                "title": "臺東聲音藝術節",
-                "location": "台東美術館",
-                "url": "https://www.facebook.com/SoundartTaitung/"
-            },
-            {
-                "imgSrc": "assets/images/event/img_event-27.jpg",
-                "imgAlt": "【東Go！】漂移台東人 音樂故事分享會",
-                "date": "2025.11.22",
-                "title": "【東Go！】漂移台東人 音樂故事分享會",
-                "location": "爵士廣場庭園（詳見官網）",
-                "url": "https://www.facebook.com/taitunggo.dontgo/posts/pfbid02nD9S1KifcWK4ak9jXBX1PZaPFCZHh8cTw1RhqapVdNeq1RdzmX1D2cnA6B6oy2y9l"
-            },
-            {
-                "imgSrc": "assets/images/event/img_event-28.jpg",
-                "imgAlt": "【臺東慢食節】採集餐桌：森川里海篇",
-                "date": "2025.12.6 - 12.7",
-                "title": "【臺東慢食節】採集餐桌：森川里海篇",
-                "location": "高雄駁二藝術特區 大義公園",
-                "url": "https://www.facebook.com/share/p/1CzmPZsQps/?mibextid=wwXIfr"
-            },
-            {
-                "imgSrc": "assets/images/event/img_event-29.jpg",
-                "imgAlt": "2025 Action Taitung Award 臺東設計獎 頒獎典禮",
-                "date": "2025.12.10",
-                "title": "2025 Action Taitung Award 臺東設計獎 頒獎典禮",
-                "location": "臺東美術館",
-                "url": "https://www.facebook.com/TaitungDesignCenter/posts/pfbid02w9tZyeK8yKEwPSFdZ1NydFJYaicRWGL1mtkKTdQGp7FDU5gmC2i8TQ7rwBtK8mggl?rdid=c3GISkiGPf4XfnQP"
-            },
-            {
-                "imgSrc": "assets/images/event/img_event-22.png",
-                "imgAlt": "Taiwan PASIWALI Festival 國際原住民音樂節",
-                "date": "2025.12.13 - 12.14",
-                "title": "Taiwan PASIWALI Festival 國際原住民音樂節",
-                "location": "臺東森林公園",
-                "url": "https://www.facebook.com/Taiwan.PASIWALI.Festival"
+                "imgSrc": "assets/images/event/img_event-30.jpg",
+                "imgAlt": "麻煩了，臺東！Good Trouble 年度成果展",
+                "date": "2025.12.02 - 2026.11.30",
+                "title": "麻煩了，臺東！Good Trouble 年度成果展",
+                "location": "臺東設計中心 ",
+                "url": "https://www.facebook.com/TaitungDesignCenter/posts/pfbid02aGyuMzHJ5Q2zCceMmwyx22DFo2NQRXHuiY5M9CHQUh22VfurZgGWyLKpYECoEYZHl"
             }
         ]
     },
@@ -324,14 +326,14 @@
     "participation": {
         "title": "民間參與計畫",
         "intro": "臺東縣政府推出「2026台東博覽會民間參與計畫」，邀請當地民間團體共同創造台東未來願景，透過創意實現對「台東博覽會」的獨特想像。本計畫將依循博覽會整體執行架構，並呼應聯合國17項永續發展目標（SDGs），公開徵選具前瞻性與多元觀點的策展提案。預計遴選至少12件計畫，透過民間的策展能量，共同勾勒台東多元而永續的未來藍圖，讓世界看見台東的創意與行動力！",
-        "infoTitle": "申請資訊",
+        "infoTitle": "※12/16(二)已公告決審名單，詳情請見下方連結。",
         "infoItems": [
-            "申請時間：即日起至2025年10月31日(五)止",
-            "電子資料寄送地址：<a href=\"mailto:slifetaitung@gmail.com\" class=\"f-underline\">slifetaitung@gmail.com</a> "
+
         ],
         "actionItems": [
             "活動簡章",
-            "說明會簡報"
+            "說明會簡報",
+            "決審名單"
         ]
     },
     "authorization": {
@@ -342,8 +344,7 @@
         ],
         "applicationTitle": "申請資訊",
         "applicationItems": [
-            "第一階段申請已於 9/30 截止，近期將寄發正式授權公文通知，敬請已完成送件之廠商耐心等候。",
-            "相關問題請洽： <a href=\"mailto:info@taitungexpo2026.com.tw\" class=\"f-underline\">info@taitungexpo2026.com.tw</a>  /   LINE: <a href=\"https://lin.ee/xC0cxGi\" class=\"f-underline\" target=\"_blank\">@ttexpo</a>"
+            "第一階段申請已截止，相關問題請洽：<a href=\"mailto:info@taitungexpo2026.com.tw\" class=\"f-underline\">info@taitungexpo2026.com.tw</a>  /   LINE: <a href=\"https://lin.ee/xC0cxGi\" class=\"f-underline\" target=\"_blank\">@ttexpo</a>"
         ],
         "actionItems": [
             "作業辦法",
