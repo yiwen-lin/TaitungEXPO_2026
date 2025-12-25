@@ -572,14 +572,14 @@ class LanguageSwitcher {
             infoTitle.innerHTML = participationData.infoTitle;
         }
 
-        const infoItems = document.querySelectorAll('#participation .rule__list .f-section-h5');
-        if (infoItems && participationData.infoItems) {
-            infoItems.forEach((element, index) => {
-                if (participationData.infoItems[index]) {
-                    element.innerHTML = participationData.infoItems[index];
-                }
-            });
-        }
+        // const infoItems = document.querySelectorAll('#participation .rule__list .f-section-h5');
+        // if (infoItems && participationData.infoItems) {
+        //     infoItems.forEach((element, index) => {
+        //         if (participationData.infoItems[index]) {
+        //             element.innerHTML = participationData.infoItems[index];
+        //         }
+        //     });
+        // }
 
         const actionItems = document.querySelectorAll('#participation .action .btn__text');
         if (actionItems && participationData.actionItems) {
