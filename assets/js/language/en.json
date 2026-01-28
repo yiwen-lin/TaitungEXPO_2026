@@ -36,9 +36,25 @@
         "title": "Latest News",
         "newsData": [
             {
+                "imgSrc": "assets/images/news/N26.jpg",
+                "imgAlt": "Inspecting key works at Taitung Old Station Area to prepare early for the 2026 Taitung Expo",
+                "date": "2026.1.19",
+                "title": "Inspecting key works at Taitung Old Station Area to prepare early for the 2026 Taitung Expo",
+                "desc": "On the 19th, the Taitung County Government conducted an inspection of several key new construction projects surrounding the Taitung Old Station Area. Among them, the All-People Sports Center will serve as a venue for the “Awaken Your Potential.”",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=144434"
+            },
+            {
+                "imgSrc": "assets/images/news/N25.jpg",
+                "imgAlt": "Call for Submissions Open Until May 15 for the 2026 Taitung Fringe Festival",
+                "date": "2026.1.5",
+                "title": "Call for Submissions Open Until May 15 for the 2026 Taitung Fringe Festival",
+                "desc": "Under the theme “The Fourth Quadrant,” the 2026 Taitung Fringe Festival invites creators to start from Taitung, create between mountains and sea, and take part in a shared stage reaching the world.",
+                "url": "https://www.facebook.com/TaitungFringeFestival/posts/pfbid02x84eCgjfEXeXGqrr6DHcSEGyyyUEykFLK1zBkEgBttABSZ5d7vWm1KXTuDZcpYe8l"
+            },
+            {
                 "imgSrc": "assets/images/news/N24.jpg",
                 "imgAlt": "Final List Announced for the 2026 Taitung Expo Community Participation Plan",
-                "date": "2026.01.5",
+                "date": "2026.1.5",
                 "title": "Final List Announced for the 2026 Taitung Expo Community Participation Plan",
                 "desc": "Out of 55 proposals, 23 projects were selected with total funding of NT$12 million to support community participation in the 2026 Taitung Expo.",
                 "url": "https://culture.taitung.gov.tw/news/%E3%80%90%E6%B4%BB%E5%8B%95%E5%AE%A3%E5%82%B3%E3%80%912026%E8%87%BA%E6%9D%B1%E5%8D%9A%E8%A6%BD%E6%9C%83%E6%B0%91%E9%96%93%E5%8F%83%E8%88%87%E8%A8%88%E7%95%AB%E6%9C%80%E7%B5%82%E5%90%8D%E5%96%AE"
@@ -46,7 +62,7 @@
             {
                 "imgSrc": "assets/images/news/N23.jpg",
                 "imgAlt": "Taitung New Year’s Day Flag-Raising Ceremony Previews the 2026 Taitung Expo, Inviting the Public to Celebrate Together",
-                "date": "2026.01.01",
+                "date": "2026.1.1",
                 "title": "Taitung New Year’s Day Flag-Raising Ceremony Previews the 2026 Taitung Expo, Inviting the Public to Celebrate Together",
                 "desc": "At the New Year’s Day flag-raising ceremony, the Taitung County Government previewed the inaugural 2026 Taitung Expo at Taitung County Stadium.",
                 "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=144103"

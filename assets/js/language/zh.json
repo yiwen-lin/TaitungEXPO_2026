@@ -36,9 +36,25 @@
         "title": "最新消息",
         "newsData": [
             {
+                "imgSrc": "assets/images/news/N26.jpg",
+                "imgAlt": "視察台東舊站特區重點工程 ，為2026台東博覽會提前把關",
+                "date": "2026.1.19",
+                "title": "視察台東舊站特區重點工程 ，為2026台東博覽會提前把關",
+                "desc": "臺東縣政府19日視察台東舊站特區周邊多項重點新建工程，其中全民運動館將做為「未來人孵化器教育展」場館。",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=144434"
+            },
+            {
+                "imgSrc": "assets/images/news/N25.jpg",
+                "imgAlt": "2026臺東藝穗節徵件至 5/15截止",
+                "date": "2026.1.5",
+                "title": "2026臺東藝穗節徵件至 5/15截止",
+                "desc": "2026臺東藝穗節以「第四象限」為徵件主題，從台東出發、走向世界，在山海間展開創作，邀請每個人找到屬於自己的位置，讓台東成為共同的舞台。",
+                "url": "https://www.facebook.com/TaitungFringeFestival/posts/pfbid02x84eCgjfEXeXGqrr6DHcSEGyyyUEykFLK1zBkEgBttABSZ5d7vWm1KXTuDZcpYe8l"
+            },
+            {
                 "imgSrc": "assets/images/news/N24.jpg",
                 "imgAlt": "2026台東博覽會・民間參與計畫 最終獲選名單公告",
-                "date": "2026.01.5",
+                "date": "2026.1.5",
                 "title": "2026台東博覽會・民間參與計畫 最終獲選名單公告",
                 "desc": "民間參與計畫總計徵得55件提案，最終遴選出23件計畫，核定總獎勵金1,200萬元，將於今年展開行動，為台東博覽會注入民間能量。",
                 "url": "https://culture.taitung.gov.tw/news/%E3%80%90%E6%B4%BB%E5%8B%95%E5%AE%A3%E5%82%B3%E3%80%912026%E8%87%BA%E6%9D%B1%E5%8D%9A%E8%A6%BD%E6%9C%83%E6%B0%91%E9%96%93%E5%8F%83%E8%88%87%E8%A8%88%E7%95%AB%E6%9C%80%E7%B5%82%E5%90%8D%E5%96%AE"
@@ -46,7 +62,7 @@
             {
                 "imgSrc": "assets/images/news/N23.jpg",
                 "imgAlt": "台東元旦升旗！預告2026台東博覽會 邀請一同齊聚歡慶",
-                "date": "2026.01.01",
+                "date": "2026.1.1",
                 "title": "台東元旦升旗！預告2026台東博覽會 邀請一同齊聚歡慶",
                 "desc": "迎接2026年，臺東縣政府(1)日於體育館舉辦「迎向新程」元旦升旗典禮，同時以兩顆大球預告今年首度舉行的台東博覽會，邀請大家一起走進台東。",
                 "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=144103"
