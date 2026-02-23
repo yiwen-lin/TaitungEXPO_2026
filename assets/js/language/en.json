@@ -36,6 +36,14 @@
         "title": "Latest News",
         "newsData": [
             {
+                "imgSrc": "assets/images/news/N27.jpg",
+                "imgAlt": "Education United! Taitung Principals Co-Create Highlights for the 2026 Taitung Expo",
+                "date": "2026.1.29",
+                "title": "Education United! Taitung Principals Co-Create Highlights for the 2026 Taitung Expo",
+                "desc": "The Taitung County Government convened a principals’ conference to integrate campus resources through exchange and local experiences, supporting planning for the '2026 Taitung Expo: Baseball on Red Clay Exhibition",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=144639"
+            },
+            {
                 "imgSrc": "assets/images/news/N26.jpg",
                 "imgAlt": "Inspecting key works at Taitung Old Station Area to prepare early for the 2026 Taitung Expo",
                 "date": "2026.1.19",
@@ -272,6 +280,23 @@
                 "title": "Thanks, Taitung! Good Trouble Year-End Exhibition",
                 "location": "Taitung Design Center",
                 "url": "https://www.facebook.com/TaitungDesignCenter/posts/pfbid02aGyuMzHJ5Q2zCceMmwyx22DFo2NQRXHuiY5M9CHQUh22VfurZgGWyLKpYECoEYZHl"
+            },
+            {
+                "imgSrc": "assets/images/event/img_event-31.jpg",
+                "imgAlt": "2026 Taitung Lantern Festival Blessing Carnival",
+                "date": "2026.02.26 - 2026.03.07",
+                "title": "2026 Taitung Lantern Festival Blessing Carnival",
+                "location": "See the official website for details",
+                "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0DMoVVpeHFk35oGjDjRgZi46Ebv8Ax4zSkWrLfewNNCZEBiT4PPwWShwvWBxdJzKNl&id=100068725495413"
+            }
+            ,
+            {
+                "imgSrc": "assets/images/event/img_event-32.jpg",
+                "imgAlt": "2026 TAITUNG EAST WAVE FESTIVAL",
+                "date": "2026.05.16 - 2026.05.17",
+                "title": "2026 TAITUNG EAST WAVE FESTIVAL",
+                "location": "Taitung Shanyuan Bay",
+                "url": "https://www.facebook.com/story.php?story_fbid=873997305382346&id=100083162535238&mibextid=wwXIfr&rdid=6Jh28LtnLUoHx0Bh"
             }
         ]
     },

@@ -36,6 +36,14 @@
         "title": "最新消息",
         "newsData": [
             {
+                "imgSrc": "assets/images/news/N27.jpg",
+                "imgAlt": "教育力集結！台東縣校長會議共創 2026台東博覽會教育展亮點",
+                "date": "2026.1.29",
+                "title": "教育力集結！台東縣校長會議共創 2026台東博覽會教育展亮點",
+                "desc": "臺東縣政府召開國中小校長會議，透過交流與在地體驗，整合校園資源，投入「台東棒球展」、「台東教育展」規劃，攜手迎向2026台東博覽會，展現教育行動力。",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=144639"
+            },
+            {
                 "imgSrc": "assets/images/news/N26.jpg",
                 "imgAlt": "視察台東舊站特區重點工程 ，為2026台東博覽會提前把關",
                 "date": "2026.1.19",
@@ -265,8 +273,7 @@
                 "title": "南迴藝術季",
                 "location": "台東縣南迴公路（詳見官網）",
                 "url": "https://www.facebook.com/NanhuiArtProject/?locale=zh_TW"
-            },
-                       
+            },              
             {
                 "imgSrc": "assets/images/event/img_event-30.jpg",
                 "imgAlt": "麻煩了，臺東！Good Trouble 年度成果展",
@@ -274,6 +281,23 @@
                 "title": "麻煩了，臺東！Good Trouble 年度成果展",
                 "location": "臺東設計中心 ",
                 "url": "https://www.facebook.com/TaitungDesignCenter/posts/pfbid02aGyuMzHJ5Q2zCceMmwyx22DFo2NQRXHuiY5M9CHQUh22VfurZgGWyLKpYECoEYZHl"
+            },
+            {
+                "imgSrc": "assets/images/event/img_event-31.jpg",
+                "imgAlt": "2026 臺東好神元宵祈福嘉年華",
+                "date": "2026.02.26 - 2026.03.07",
+                "title": "2026 臺東好神元宵祈福嘉年華",
+                "location": "詳情依主辦單位公告為主",
+                "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0DMoVVpeHFk35oGjDjRgZi46Ebv8Ax4zSkWrLfewNNCZEBiT4PPwWShwvWBxdJzKNl&id=100068725495413"
+            }
+            ,
+            {
+                "imgSrc": "assets/images/event/img_event-32.jpg",
+                "imgAlt": "2026 東浪嘉年華",
+                "date": "2026.05.16 - 2026.05.17",
+                "title": "2026 東浪嘉年華",
+                "location": "台東杉原灣",
+                "url": "https://www.facebook.com/story.php?story_fbid=873997305382346&id=100083162535238&mibextid=wwXIfr&rdid=6Jh28LtnLUoHx0Bh"
             }
         ]
     },
