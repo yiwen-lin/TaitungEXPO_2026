@@ -36,6 +36,30 @@
         "title": "最新消息",
         "newsData": [
             {
+                "imgSrc": "assets/images/news/N30.jpg",
+                "imgAlt": "2026台東博覽會首展《紅土之上棒球特展》3/21松菸開展，重現台東棒球百年榮光",
+                "date": "2026.2.26",
+                "title": "2026台東博覽會首展《紅土之上棒球特展》3/21松菸開展，重現台東棒球百年榮光",
+                "desc": "作為2026年台東博覽會的序幕首展，《紅土之上棒球特展》將於3月21日(六)在台北松山文創園區A1倉庫盛大開幕。",
+                "url": "https://ttbaseball.netlify.app/"
+            },
+            {
+                "imgSrc": "assets/images/news/N29.jpg",
+                "imgAlt": "縣府辦理《冠軍之路》電影欣賞 預告2026台東博覽會：紅土之上棒球特展",
+                "date": "2026.2.25",
+                "title": "縣府辦理《冠軍之路》電影欣賞 預告2026台東博覽會：紅土之上棒球特展",
+                "desc": "爲激勵地方棒球小將，縣府舉辦《冠軍之路》電影欣賞，預告為呈現台東棒球的百年發展軌跡榮光，「2026台東博覽會：紅土之上棒球特展」將於3月21日至4月5日於台北松菸登場，邀請大家共襄盛舉。",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=145176"
+            },
+            {
+                "imgSrc": "assets/images/news/N28.jpg",
+                "imgAlt": "臺東縣府新春團拜 饒慶鈴縣長邀同仁迎向2026台東博覽會",
+                "date": "2026.2.24",
+                "title": "臺東縣府新春團拜 饒慶鈴縣長邀同仁迎向2026台東博覽會",
+                "desc": "喜迎新氣象，縣長表示將於7月3日至8月20日舉辦台東博覽會，各大重大建設將陸續完成，向世界展示台東「慢經濟」的豐碩果實。",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=145151"
+            },
+            {
                 "imgSrc": "assets/images/news/N27.jpg",
                 "imgAlt": "教育力集結！台東縣校長會議共創 2026台東博覽會教育展亮點",
                 "date": "2026.1.29",
@@ -257,23 +281,7 @@
     },
     "event": {
         "title": "台東博覽會活動表",
-        "eventData": [
-            {
-                "imgSrc": "assets/images/event/img_event-10.JPG",
-                "imgAlt": "縱谷大地藝術季・漂鳥197",
-                "date": "2025.07.01 -",
-                "title": "縱谷大地藝術季・漂鳥197",
-                "location": "花東縱谷多處場域（詳見官網）",
-                "url": "https://www.facebook.com/EastRiftValleyGranaryFestivities/"
-            },
-            {
-                "imgSrc": "assets/images/event/img_event-19.jpg",
-                "imgAlt": "南迴藝術季",
-                "date": "2025.07.01 -",
-                "title": "南迴藝術季",
-                "location": "台東縣南迴公路（詳見官網）",
-                "url": "https://www.facebook.com/NanhuiArtProject/?locale=zh_TW"
-            },              
+        "eventData": [           
             {
                 "imgSrc": "assets/images/event/img_event-30.jpg",
                 "imgAlt": "麻煩了，臺東！Good Trouble 年度成果展",
@@ -283,21 +291,30 @@
                 "url": "https://www.facebook.com/TaitungDesignCenter/posts/pfbid02aGyuMzHJ5Q2zCceMmwyx22DFo2NQRXHuiY5M9CHQUh22VfurZgGWyLKpYECoEYZHl"
             },
             {
-                "imgSrc": "assets/images/event/img_event-31.jpg",
-                "imgAlt": "2026 臺東好神元宵祈福嘉年華",
-                "date": "2026.02.26 - 2026.03.07",
-                "title": "2026 臺東好神元宵祈福嘉年華",
-                "location": "詳情依主辦單位公告為主",
-                "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0DMoVVpeHFk35oGjDjRgZi46Ebv8Ax4zSkWrLfewNNCZEBiT4PPwWShwvWBxdJzKNl&id=100068725495413"
+                "imgSrc": "assets/images/event/img_event-30.jpg",
+                "imgAlt": "2026台東博覽會：紅土之上棒球特展",
+                "date": "2026.03.21 - 2026.04.05",
+                "title": "2026台東博覽會：紅土之上棒球特展",
+                "location": "松山文創園區A1倉庫（臺北市信義區光復南路133號）",
+                "url": "https://ttbaseball.netlify.app/"
             }
             ,
             {
                 "imgSrc": "assets/images/event/img_event-32.jpg",
-                "imgAlt": "2026 東浪嘉年華",
+                "imgAlt": "東浪嘉年華",
                 "date": "2026.05.16 - 2026.05.17",
-                "title": "2026 東浪嘉年華",
+                "title": "東浪嘉年華",
                 "location": "台東杉原灣",
                 "url": "https://www.facebook.com/story.php?story_fbid=873997305382346&id=100083162535238&mibextid=wwXIfr&rdid=6Jh28LtnLUoHx0Bh"
+            }
+            ,
+            {
+                "imgSrc": "assets/images/event/img_event-33.jpg",
+                "imgAlt": "【東海岸大地藝術節】月光．海-音樂會",
+                "date": "2026.06.21 - 2026.09.29",
+                "title": "【東海岸大地藝術節】月光．海-音樂會",
+                "location": "都歷遊客中心",
+                "url": "https://www.facebook.com/TECLandArtsFestival"
             }
         ]
     },
@@ -424,9 +441,7 @@
         ],
         "applicationTitle": "申請資訊",
         "applicationItems": [
-            "第二階段申請即將開放，最新資訊請持續關注台東博覽會官方 Facebook： <a href=\"https://fb.com/taitungexpo2026\" class=\"f-underline\">https://fb.com/taitungexpo2026</a>"
-        ],
-        "applicationItems": [
+            "第二階段申請即將開放，最新資訊請持續關注台東博覽會官方 Facebook： <a href=\"https://fb.com/taitungexpo2026\" class=\"f-underline\">https://fb.com/taitungexpo2026</a>",
             "如有相關問題，歡迎洽詢：<a href=\"mailto:info@taitungexpo2026.com.tw\" class=\"f-underline\">info@taitungexpo2026.com.tw</a>  /   LINE: <a href=\"https://lin.ee/xC0cxGi\" class=\"f-underline\" target=\"_blank\">@ttexpo</a>"
         ],
         "actionItems": [

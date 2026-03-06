@@ -36,11 +36,35 @@
         "title": "Latest News",
         "newsData": [
             {
+                "imgSrc": "assets/images/news/N30.jpg",
+                "imgAlt": "2026 Taitung Expo: “Baseball on Red Clay” Exhibition Opens March 21 at Songshan Cultural and Creative Park, Showcasing a Century of Taitung’s Baseball Legacy",
+                "date": "2026.2.26",
+                "title": "2026 Taitung Expo: “Baseball on Red Clay” Exhibition Opens March 21 at Songshan Cultural and Creative Park, Showcasing a Century of Taitung’s Baseball Legacy",
+                "desc": "The 2026 Taitung Expo's Baseball on Red Clay exhibition will officially open on Saturday, March 21, at Warehouse A1 of Songshan Cultural and Creative Park in Taipei, kicking off the year's series of Expo events.As the first exhibition of the 2026 Taitung Expo, “Baseball on the Red Clay” will officially open on Saturday, March 21, at Warehouse A1 of Songshan Cultural and Creative Park in Taipei.",
+                "url": "https://ttbaseball.netlify.app/"
+            },
+            {
+                "imgSrc": "assets/images/news/N29.jpg",
+                "imgAlt": "County screens Champion’s Road, previews 2026 Taitung Expo: Baseball on Red Clay Exhibition.",
+                "date": "2026.2.25",
+                "title": "County screens Champion’s Road, previews 2026 Taitung Expo: Baseball on Red Clay Exhibition.",
+                "desc": "To inspire young players, the county hosted a screening of Champion’s Road and announced that the 2026 Taitung Expo: Baseball on Red Clay Exhibition will be held at Taipei Songshan Cultural and Creative Park from March 21 to April 5, highlighting Taitung’s century-long baseball legacy.",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=145176"
+            },
+            {
+                "imgSrc": "assets/images/news/N28.jpg",
+                "imgAlt": "The Taitung County Government held a Lunar New Year gathering, where County Magistrate April Yao invited colleagues to welcome the 2026 Taitung Expo.",
+                "date": "2026.2.24",
+                "title": "The Taitung County Government held a Lunar New Year gathering, where County Magistrate April Yao invited colleagues to welcome the 2026 Taitung Expo.",
+                "desc": "Welcoming a fresh start, the Magistrate announced that the Taitung Expo will run from July 3 to August 20, with major infrastructure projects set to be completed in succession, showcasing Taitung’s rich achievements in its “Slow Economy” to the world.",
+                "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=145151"
+            },
+            {
                 "imgSrc": "assets/images/news/N27.jpg",
                 "imgAlt": "Education United! Taitung Principals Co-Create Highlights for the 2026 Taitung Expo",
                 "date": "2026.1.29",
                 "title": "Education United! Taitung Principals Co-Create Highlights for the 2026 Taitung Expo",
-                "desc": "The Taitung County Government convened a principals’ conference to integrate campus resources through exchange and local experiences, supporting planning for the '2026 Taitung Expo: Baseball on Red Clay Exhibition",
+                "desc": "The Taitung County Government convened a principals’ conference to integrate campus resources. T through exchange and local experiences, the conference served to supporting planning for the '2026 Taitung Expo: Baseball on Red Clay Exhibition' and 'Awaken Your Potential  Education Exhibition', while advancing preparations for the '2026 Taitung Expo' and showcasing education in action.",
                 "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=144639"
             },
             {
@@ -64,7 +88,7 @@
                 "imgAlt": "Final List Announced for the 2026 Taitung Expo Community Participation Plan",
                 "date": "2026.1.5",
                 "title": "Final List Announced for the 2026 Taitung Expo Community Participation Plan",
-                "desc": "Out of 55 proposals, 23 projects were selected with total funding of NT$12 million to support community participation in the 2026 Taitung Expo.",
+                "desc": "Out of 55 proposals, 23 projects were selected with and awarded a total funding of NT$12 million in incentive grants. The selected projects will launch this year, bringing community energy to the  to support community participation in the 2026 Taitung Expo.",
                 "url": "https://culture.taitung.gov.tw/news/%E3%80%90%E6%B4%BB%E5%8B%95%E5%AE%A3%E5%82%B3%E3%80%912026%E8%87%BA%E6%9D%B1%E5%8D%9A%E8%A6%BD%E6%9C%83%E6%B0%91%E9%96%93%E5%8F%83%E8%88%87%E8%A8%88%E7%95%AB%E6%9C%80%E7%B5%82%E5%90%8D%E5%96%AE"
             },
             {
@@ -72,7 +96,7 @@
                 "imgAlt": "Taitung New Year’s Day Flag-Raising Ceremony Previews the 2026 Taitung Expo, Inviting the Public to Celebrate Together",
                 "date": "2026.1.1",
                 "title": "Taitung New Year’s Day Flag-Raising Ceremony Previews the 2026 Taitung Expo, Inviting the Public to Celebrate Together",
-                "desc": "At the New Year’s Day flag-raising ceremony, the Taitung County Government previewed the inaugural 2026 Taitung Expo at Taitung County Stadium.",
+                "desc": "On January 1, the Taitung County Government held the 'Embracing a New Journey' New Year's Day flag-raising ceremony at Taitung County Stadium, previewing the inaugural 2026 Taitung Expo with two large decorative spheres and inviting everyone to come experience Taitung.At the New Year’s Day flag-raising ceremony, the Taitung County Government previewed the inaugural 2026 Taitung Expo at Taitung County Stadium.",
                 "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=144103"
             },
             {
@@ -88,7 +112,7 @@
                 "imgAlt": "Design-Phase Outcomes of the Two Major Thematic Exhibitions for the 2026 Taitung Expo Unveiled",
                 "date": "2025.12.22",
                 "title": "Design-Phase Outcomes of the Two Major Thematic Exhibitions for the 2026 Taitung Expo Unveiled",
-                "desc": "The design outcomes of the two major thematic exhibitions were unveiled, with a public briefing scheduled on December 26.",
+                "desc": "The design outcomes of the two major thematic exhibitions were unveiled, with a public briefing scheduled on December 26, inviting representatives from industry, government, academia, and the public to participate.",
                 "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&sms=12652&s=143922"
             },
             {
@@ -258,22 +282,6 @@
         "title": "Expo Event Table",
         "eventData": [
             {
-                "imgSrc": "assets/images/event/img_event-10.JPG",
-                "imgAlt": "East Rift Valley Land Art Festival",
-                "date": "2025.07.01 -",
-                "title": "East Rift Valley Land Art Festival",
-                "location": "Multiple Locations along the East Rift Valley (See website for details)",
-                "url": "https://www.facebook.com/EastRiftValleyGranaryFestivities/"
-            },
-            {
-                "imgSrc": "assets/images/event/img_event-19.jpg",
-                "imgAlt": "South Link Arts Festival",
-                "date": "2025.07.01 -",
-                "title": "South Link Arts Festival",
-                "location": "South Link Highway (See website for details)",
-                "url": "https://www.facebook.com/NanhuiArtProject/?locale=zh_TW"
-            },
-            {
                 "imgSrc": "assets/images/event/img_event-30.jpg",
                 "imgAlt": "Thanks, Taitung! Good Trouble Year-End Exhibition",
                 "date": "2025.12.02 - 2026.11.30",
@@ -282,21 +290,30 @@
                 "url": "https://www.facebook.com/TaitungDesignCenter/posts/pfbid02aGyuMzHJ5Q2zCceMmwyx22DFo2NQRXHuiY5M9CHQUh22VfurZgGWyLKpYECoEYZHl"
             },
             {
-                "imgSrc": "assets/images/event/img_event-31.jpg",
-                "imgAlt": "2026 Taitung Lantern Festival Blessing Carnival",
-                "date": "2026.02.26 - 2026.03.07",
-                "title": "2026 Taitung Lantern Festival Blessing Carnival",
-                "location": "See the official website for details",
-                "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0DMoVVpeHFk35oGjDjRgZi46Ebv8Ax4zSkWrLfewNNCZEBiT4PPwWShwvWBxdJzKNl&id=100068725495413"
+                "imgSrc": "assets/images/event/img_event-30.jpg",
+                "imgAlt": "2026 Taitung Expo：Baseball On Red Clay Exhibition",
+                "date": "2026.03.21 - 2026.04.05",
+                "title": "2026 Taitung Expo：Baseball On Red Clay Exhibition",
+                "location": "Warehouse A1, Songshan Cultural and Creative Park (No.133, Guangfu South Road, Xinyi District, Taipei City 11072, Taiwan)",
+                "url": "https://ttbaseball.netlify.app/"
             }
             ,
             {
                 "imgSrc": "assets/images/event/img_event-32.jpg",
-                "imgAlt": "2026 TAITUNG EAST WAVE FESTIVAL",
+                "imgAlt": "TAITUNG EAST WAVE FESTIVAL",
                 "date": "2026.05.16 - 2026.05.17",
-                "title": "2026 TAITUNG EAST WAVE FESTIVAL",
+                "title": "TAITUNG EAST WAVE FESTIVAL",
                 "location": "Taitung Shanyuan Bay",
                 "url": "https://www.facebook.com/story.php?story_fbid=873997305382346&id=100083162535238&mibextid=wwXIfr&rdid=6Jh28LtnLUoHx0Bh"
+            }
+            ,
+            {
+                "imgSrc": "assets/images/event/img_event-33.jpg",
+                "imgAlt": "[TECLandArts Festival] Moonlit Sea Concert",
+                "date": "2026.06.21 - 2026.09.29",
+                "title": "[TECLandArts Festival] Moonlit Sea Concert",
+                "location": "Torik Visitor Center",
+                "url": "https://www.facebook.com/TECLandArtsFestival"
             }
         ]
     },
@@ -424,9 +441,7 @@
         ],
         "applicationTitle": "Application Information",
         "applicationItems": [
-            "Second-phase applications will open soon. For the latest updates, please follow the official Facebook page <a href=\"https://fb.com/taitungexpo2026\" class=\"f-underline\">https://fb.com/taitungexpo2026</a>"
-        ],
-        "applicationItems": [
+            "Second-phase applications will open soon. For the latest updates, please follow the official Facebook page <a href=\"https://fb.com/taitungexpo2026\" class=\"f-underline\">https://fb.com/taitungexpo2026</a>",
             "For further inquiries, please contact: <a href=\"mailto:info@taitungexpo2026.com.tw\" class=\"f-underline\">info@taitungexpo2026.com.tw</a>  /   LINE: <a href=\"https://lin.ee/xC0cxGi\" class=\"f-underline\" target=\"_blank\">@ttexpo</a> "
         ],
         "actionItems": [
