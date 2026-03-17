@@ -36,7 +36,23 @@
         "title": "最新消息",
         "newsData": [
             {
-                "imgSrc": "assets/images/news/N30.jpg",
+                "imgSrc": "assets/images/news/N32.png",
+                "imgAlt": "東博聯名便當特約店家揭曉！擴大徵選69家好店正式成軍",
+                "date": "2026.3.19",
+                "title": "東博聯名便當特約店家揭曉！擴大徵選69家好店正式成軍",
+                "desc": "全台首發聯名便當！69家好店推專屬優惠，消費集點抽好禮。邀請您自備餐盒，守護台東純淨山海。",
+                "url": "https://www.facebook.com/taitungexpo2026/posts/pfbid0SZw9NEej79TwAsJ93JAx4fBXy4HHE1mcQrtCjzG4VFSzFGVPufk8TJZkZRAEYsYol"
+            },
+            {
+                "imgSrc": "assets/images/news/N31.png",
+                "imgAlt": "台東博覽會品牌授權計畫第二階段徵件至 3月30日 止",
+                "date": "2026.3.13",
+                "title": "台東博覽會品牌授權計畫第二階段徵件至 3月30日 止",
+                "desc": "「台東博覽會品牌授權計畫」加開第二階段申請，持續開放品牌、商家與創作者參與，共同發展展現台東文化特色之授權商品。",
+                "url": "https://www.facebook.com/share/p/1DTnWrE1HE/"
+            },
+            {
+                "imgSrc": "assets/images/news/N30.png",
                 "imgAlt": "2026台東博覽會首展《紅土之上棒球特展》3/21松菸開展，重現台東棒球百年榮光",
                 "date": "2026.2.26",
                 "title": "2026台東博覽會首展《紅土之上棒球特展》3/21松菸開展，重現台東棒球百年榮光",
@@ -180,7 +196,7 @@
                 "desc": "為迎接2026台東博覽會，縣府推動「英語人才培訓計畫」，結合國際志工與糖廠導覽員開設英語導覽課程，培育國際接待人才。",
                 "url": "https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=142903"
             },
-            
+
             {
                 "imgSrc": "assets/images/news/N12.jpg",
                 "imgAlt": "2025臺東工藝國際交流成果展登場！ 6位匠人共譜獻給臺東的情詩",
@@ -281,7 +297,7 @@
     },
     "event": {
         "title": "台東博覽會活動表",
-        "eventData": [           
+        "eventData": [
             {
                 "imgSrc": "assets/images/event/img_event-30.jpg",
                 "imgAlt": "麻煩了，臺東！Good Trouble 年度成果展",
@@ -291,7 +307,7 @@
                 "url": "https://www.facebook.com/TaitungDesignCenter/posts/pfbid02aGyuMzHJ5Q2zCceMmwyx22DFo2NQRXHuiY5M9CHQUh22VfurZgGWyLKpYECoEYZHl"
             },
             {
-                "imgSrc": "assets/images/event/img_event-34.jpg",
+                "imgSrc": "assets/images/event/img_event-34.png",
                 "imgAlt": "2026台東博覽會：紅土之上棒球特展",
                 "date": "2026.03.21 - 2026.04.05",
                 "title": "2026台東博覽會：紅土之上棒球特展",
@@ -300,7 +316,7 @@
             }
             ,
             {
-                "imgSrc": "assets/images/event/img_event-32.jpg",
+                "imgSrc": "assets/images/event/img_event-32.png",
                 "imgAlt": "東浪嘉年華",
                 "date": "2026.05.16 - 2026.05.17",
                 "title": "東浪嘉年華",
@@ -441,11 +457,12 @@
         ],
         "applicationTitle": "申請資訊",
         "applicationItems": [
-            "第二階段申請即將開放，最新資訊請持續關注台東博覽會官方 Facebook： <a href=\"https://fb.com/taitungexpo2026\" class=\"f-underline\">https://fb.com/taitungexpo2026</a>",
-            "如有相關問題，歡迎洽詢：<a href=\"mailto:info@taitungexpo2026.com.tw\" class=\"f-underline\">info@taitungexpo2026.com.tw</a>  /   LINE: <a href=\"https://lin.ee/xC0cxGi\" class=\"f-underline\" target=\"_blank\">@ttexpo</a>"
+            "第二階段授權申請收件至 3月30日（週一） 止，報名表單及作業辦法請參考下方申請連結。",
+            "第一階段授權通過者，相關行銷活動通知將陸續寄發，敬請留意電子信箱。",
+            "計畫最新資訊請持續關注台東博覽會官方 Facebook：<a href=\"https://fb.com/taitungexpo2026\" class=\"f-underline\" target=\"_blank\">https://fb.com/taitungexpo2026</a><br>如有相關問題，歡迎洽詢：<a href=\"mailto:info@taitungexpo2026.com.tw\" class=\"f-underline\">info@taitungexpo2026.com.tw</a><br>LINE: <a href=\"https://lin.ee/xC0cxGi\" class=\"f-underline\" target=\"_blank\">@ttexpo</a>"
         ],
         "actionItems": [
-            "作業辦法",
+            "第二階段授權申請",
             "品牌手冊及授權素材",
             "說明會簡報"
         ]

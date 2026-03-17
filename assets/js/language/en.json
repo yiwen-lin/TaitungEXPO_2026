@@ -36,7 +36,23 @@
         "title": "Latest News",
         "newsData": [
             {
-                "imgSrc": "assets/images/news/N30.jpg",
+                "imgSrc": "assets/images/news/N32.png",
+                "imgAlt": "Taitung x TRA: 69 Partner Shops Revealed!",
+                "date": "2026.3.19",
+                "title": "Taitung x TRA: 69 Partner Shops Revealed!",
+                "desc": "Enjoy deals at 69 shops! Collect points to win. Reuse bento boxes to protect Taitung.",
+                "url": "https://www.facebook.com/taitungexpo2026/posts/pfbid0SZw9NEej79TwAsJ93JAx4fBXy4HHE1mcQrtCjzG4VFSzFGVPufk8TJZkZRAEYsYol"
+            },
+            {
+                "imgSrc": "assets/images/news/N31.png",
+                "imgAlt": "Taitung Expo Brand Licensing Program Phase 2 Applications Open Until March 30",
+                "date": "2026.3.13",
+                "title": "Taitung Expo Brand Licensing Program Phase 2 Applications Open Until March 30",
+                "desc": "The Taitung Expo Brand Licensing Program has opened a second phase of applications, continuing to welcome brands, businesses, and creators to develop licensed products that showcase Taitung’s cultural identity.",
+                "url": "https://www.facebook.com/share/p/1DTnWrE1HE/"
+            },
+            {
+                "imgSrc": "assets/images/news/N30.png",
                 "imgAlt": "2026 Taitung Expo: “Baseball on Red Clay” Exhibition Opens March 21 at Songshan Cultural and Creative Park, Showcasing a Century of Taitung’s Baseball Legacy",
                 "date": "2026.2.26",
                 "title": "2026 Taitung Expo: “Baseball on Red Clay” Exhibition Opens March 21 at Songshan Cultural and Creative Park, Showcasing a Century of Taitung’s Baseball Legacy",
@@ -424,8 +440,8 @@
         "intro": "The Taitung County Government is launching the \"2026 Taitung Expo Community Participation Plan,\" inviting community and private organizations to co-create a future vision for Taitung through their imagination and interpretations at the Expo.<br>This initiative will follow the Expo's overall implementation framework and echo the United Nations' 17 Sustainable Development Goals (SDGs), seeking forward-thinking and diverse curatorial concepts, through a public call for proposals. At least 12 projects will be selected. Harnessing the curatorial energy of the local community, the program aims to collectively shape a sustainable and vibrant future for Taitung — and to share its creative spirit with the world.",
         "infoTitle": "※  The final list of selected projects has been announced.  Please see the link below for details.",
         "infoItems": [
-           
-            
+
+
         ],
         "actionItems": [
             "Download Program Overview",
@@ -441,13 +457,14 @@
         ],
         "applicationTitle": "Application Information",
         "applicationItems": [
-            "Second-phase applications will open soon. For the latest updates, please follow the official Facebook page <a href=\"https://fb.com/taitungexpo2026\" class=\"f-underline\">https://fb.com/taitungexpo2026</a>",
-            "For further inquiries, please contact: <a href=\"mailto:info@taitungexpo2026.com.tw\" class=\"f-underline\">info@taitungexpo2026.com.tw</a>  /   LINE: <a href=\"https://lin.ee/xC0cxGi\" class=\"f-underline\" target=\"_blank\">@ttexpo</a> "
+            "The Phase 2 Licensing Application will be open until March 30 (Mon.). Please refer to the application link below for the application form and guidelines.",
+            "For applicants approved in Phase 1, notifications regarding upcoming marketing and promotional activities will be sent out progressively. Please keep an eye on your email.",
+            "For the latest updates, please follow the 2026 Taitung Expo official Facebook page:<a href=\"https://fb.com/taitungexpo2026\" class=\"f-underline\" target=\"_blank\">https://fb.com/taitungexpo2026</a><br>If you have any questions, please contact us:<a href=\"mailto:info@taitungexpo2026.com.tw\" class=\"f-underline\">info@taitungexpo2026.com.tw</a><br>LINE: <a href=\"https://lin.ee/xC0cxGi\" class=\"f-underline\" target=\"_blank\">@ttexpo</a>"
         ],
         "actionItems": [
-            "Download Licensing Procedures",
-            "Download Brand Manual",
-            "Download Briefing Presentation"
+            "Phase 2 Application",
+            "Brand Manualcontent",
+            "Briefing Presentation"
         ]
     },
     "style": {
